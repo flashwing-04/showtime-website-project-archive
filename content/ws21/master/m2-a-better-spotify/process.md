@@ -6,7 +6,7 @@ weight = 1
 {{<section title="Research">}}
 Since Spotify – with a whole team of experts behind it – is one of the global players in audio streaming, the question was how the team of seven students could improve the product in a short time. In the beginning, research had to be carried out in various directions in order to be able to **identify possible optimisations** and **restructurings**. 
 
-Basic questions like the target group and main focus points of our project had to be answered. This entailed not only **researching** different *ideas on how to add new features* to the already existing version of Spotify but also researching *current trends* regarding the design of music players and websites in general. 
+Basic questions like the target group and main focus points of our project had to be answered. This entailed not only **researching** different *ideas on how to add new features* to the already existing version of Spotify, but also researching *current trends* regarding the design of music players and websites in general. 
 
 
 {{<image src="Miroboard_1.jpg" alt="Pic of the first Drafts" caption="Draft of the process">}}
@@ -21,15 +21,15 @@ In order to gain **qualitative** data as to what exactly needed to be included, 
 {{<image src="Miroboard_4.jpg" alt="Pic of the Miro Board" caption="First Idea Board">}}
 
 {{<section title="Focus Group">}}
-The focus group consisted of **10 people** in total. That way we had a foolproof way to ensure the conversation wasn’t going to come to a halt*and* to encourage the external sources to give more input. In order to get the most out of the interview, we started a discussion in advance whether or not they would consider themselves **heavy users** of music streaming platforms (using those kinds of apps at the least every other day). The challenge was to initiate an exchange between the invited persons.
-That way we were able to assure that they knew the application well enough to be a *trustworthy* source of information. 
+The focus group consisted of **10 people** in total. That way, we had a foolproof way to ensure the conversation wasn’t going to come to a halt *and* to encourage the external sources to give more input. In order to get the most out of the interview, we started a discussion in advance whether or not they would consider themselves **heavy users** of music streaming platforms (using those kinds of apps at the least every other day). The challenge was to initiate an exchange between the invited persons.
+That way, we were able to assure that they knew the application well enough to be a *trustworthy* source of information. 
 
 
 {{<image src="FocusGroupQs.PNG" alt="Prepared questions for the Focus Group" caption="Focus Group Cycle">}}
 
  - In the beginning, we prepared a **set of questions** to get a grasp as to what kind of listener the focus group participants were.
  - Then we proceeded to give them the chance to simply think about the streaming platforms and name any kind of **feature** they would want to be refurbished in any way or even added because it didn’t even exist yet.
- - Lastly, the focus group was presented with a **stimulus**. In our case that was 3 different kinds of music player design handpicked from the research team of the group to show different approaches to modern designs. This step was crucial to spark new ideas in the participants' minds and provide them with a different point of view on some features and even led to new wishes for features popping up. 
+ - Lastly, the focus group was presented with a **stimulus**. In our case, that were 3 different kinds of music player designs handpicked by the research team of the group to show different approaches to modern designs. This step was crucial to spark new ideas in the participants' minds and provide them with a different point of view on some features and even led to new wishes for features popping up. 
 
 
 All of the different ideas discussed by and during the focus group were collected and written down into an **affinity board**. This was the best way to group the ideas, see whether or not duplicates were made *and* have a proper way to evaluate them. It also helped immensely with creating a general overview and scope for the project.
@@ -49,7 +49,7 @@ Said requirement sheet was important for the organization of the project because
 Quite early on, the team had decided to ensure that a proper design was ready for every single aspect of the project. This was owed to the team knowing from experience that proper preparation speeds up the implementation process greatly. Sticking to one design means that everything is a lot **cleaner** and **consistent** in itself and therefore needs much fewer changes later on. 
 
 Another point that made having a proper design very interesting and important was the possibility of **checking the design** whenever they were implemented. Instead of simply creating screens and passing them on to the team, each and every one of the designs was **double-checked** with a group of heavy Spotify users that agreed to give us continuous feedback. 
-This way the designs were proved over and over again, ensuring that the **usability standpoint** was still the utmost priority throughout the entire process. 
+This way, the designs were proved over and over again, ensuring that the **usability standpoint** was still the utmost priority throughout the entire process. 
 
 This meant trying out various possible design solutions, different interface versions and improving over and over again. It meant having to **change details** and **features** more than once and even throwing away the entire basic design based on user feedback. 
 

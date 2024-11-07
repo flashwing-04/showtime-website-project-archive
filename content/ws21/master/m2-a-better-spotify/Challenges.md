@@ -7,12 +7,12 @@ weight = 3
 
 Even though at the beginning of the project, the team was certain that working on the queue would be a big step and a big part of Better Spotify, in the end, the **queue was dropped**.
 
-This had more than just one reason that all worked together to get to the final decision of dropping the tickets entirely even though the biggest one would have already been enough for the team to decide on it. 
+This had more than just one reason that all worked together to get to the final decision of dropping the tickets entirely, even though the biggest one would have already been enough for the team to decide on it. 
 
 - After analysing the requirement sheet and the priorities deriving from it, the team had to realise that even though there were a lot of things to work on in the queue, the tickets coming with it just weren’t as important / as high in the priority as sought of prior. 
 - The Spotify API does not provide any context for the queue
 
-Having to decide on the **scope** of the project as soon as possible, listening to priorities was crucial. Therefore it was more than important to weigh out the possibilities of what was feasible and what the users actually wanted. In the end, the queue had a **lower improvement rank** than the *startpage, the usability, design and even the playlists themselves*. 
+Having to decide on the **scope** of the project as soon as possible, listening to priorities was crucial. Therefore, it was more than important to weigh out the possibilities of what was feasible and what the users actually wanted. In the end, the queue had a **lower improvement rank** than the *startpage, the usability, design and even the playlists themselves*. 
 
 {{<image src="Priorities_new_alpha.PNG" alt="Pirorities" caption="The finished Priority graph">}}
 {{</section>}}

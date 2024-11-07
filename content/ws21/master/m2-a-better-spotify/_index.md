@@ -16,10 +16,10 @@ supervisor = "David Strippgen"
 {{<mediathek id="578e28b13c46a384cd8d83edb4322b62" title="Presentation">}}
 
 {{<section title="Our Objective">}}
-Even though Spotify is the most well-known streaming platform that exists in the world and has billions in assets and millions of users, there is still some **usability optimization** that can be done. In many blogs and internet sources, heavy users complain about usability related issues when it comes to Spotify. Finding comments mentioning **unintuitive user flows**, **inconsitencies** across pages and **features not located where the user would expect them**, was not uncommon. In fact, there most certainly is the possibility to improve Spotify – our aim was to analyze the existing UX issues, develop new approaches and, of course, implement them in an adequate way. 
+Even though Spotify is the most well-known streaming platform that exists in the world and has billions in assets and millions of users, there is still some **usability optimization** that can be done. In many blogs and internet sources, heavy users complain about usability related issues when it comes to Spotify. Finding comments mentioning **unintuitive user flows**, **inconsistencies** across pages and **features not located where the user would expect them**, was not uncommon. In fact, there most certainly is the possibility to improve Spotify – our aim was to analyze the existing UX issues, develop new approaches and, of course, implement them in an adequate way. 
 
 
-The idea under which ‘Better Spotify’ was born was trying to get **feedback from heavy users** themselves and implement them in a web application that has the same features and feel of Spotify but is an **improved** and overall **better version** (hence the name).
+The idea under which ‘Better Spotify’ was born was trying to get **feedback from heavy users** themselves and implement them in a web application that has the same features and feel as Spotify but is an **improved** and overall **better version** (hence the name).
 
 {{</section >}}
 

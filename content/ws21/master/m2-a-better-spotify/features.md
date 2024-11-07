@@ -18,7 +18,7 @@ Our **unique selling point** is our improved **Startpage**.
 
 Better Spotify changes that by replacing the Startpage with a **widget system** based on a **grid layout**. The widgets can be chosen by the user to give them the possibility of making the choice whether or not they **want** certain parts to be **displayed**.
 
-Additionally, the widgets are **moveable via drag-and-drop** which makes it even easier for the user to customize the Homepage to their own needs and wishes. The grid adjusts while a widget is being moved and automatically shifts everything else to make space. This way, the user has a visual representation of where everything will end up once they drop the widget into its space. 
+Additionally, the widgets are **moveable via drag-and-drop**, which makes it even easier for the user to customize the Homepage to their own needs and wishes. The grid adjusts while a widget is being moved and automatically shifts everything else to make space. This way, the user has a visual representation of where everything will end up once they drop the widget into its space. 
 
 Moreover, it is possible to change the widget’s **size** to their desire so that they can properly shift their homepages focus on whichever feature they need the most. This includes making more information visible as soon as the widget’s size increases and reducing the info displayed to make use of the fewer space left.
 
@@ -39,13 +39,13 @@ To help the user on their way, we prepared the homepage with the most useful fea
 
 
 {{<section title="Tag System" >}}
-Another improvement of the system was adding a way to tag songs for the user. This was not possible with Spotify and was high on the priority list of our focus group which was why implementing a **tag system** was out of the question. After all, it is not always possible to present one's own visions in a **one-dimensional hierarchical concept**, which is why cross-references are necessary.
+Another improvement of the system was adding a way to tag songs for the user. This was not possible with Spotify and was high on the priority list of our focus group, which was why implementing a **tag system** was out of the question. After all, it is not always possible to present one's own visions in a **one-dimensional hierarchical concept**, which is why cross-references are necessary.
 
-With the tag system, a user has now the possibility to **sort** songs not just in one way via using the Playlist feature but also via using customizable tags. The user can **create them themself** and is free in naming them and choosing a distinct **colour** for them. This helps the user to get a **visual clue** when scrolling through song lists and aids in **grouping songs** accordingly. 
+With the tag system, a user has now the possibility to **sort** songs not just in one way via using the Playlist feature, but also via using customizable tags. The user can **create them themself** and is free in naming them and choosing a distinct **colour** for them. This helps the user to get a **visual clue** when scrolling through song lists and aids in **grouping songs** accordingly. 
 
 {{<image src="TagSystem.gif" alt="creating a new tag" caption="How to create a new tag">}}
 
-Tags work as individual playlists for themselves. With a single click on the tag a list with all songs with the same tag will be displayed. This makes it a lot easier to **adjust the tags** on songs as well as check which songs belong to the tag and which don't. 
+Tags work as individual playlists for themselves. With a single click on the tag, a list with all songs with the same tag will be displayed. This makes it a lot easier to **adjust the tags** on songs, as well as check which songs belong to the tag and which don't. 
 
 {{</section>}}
 
