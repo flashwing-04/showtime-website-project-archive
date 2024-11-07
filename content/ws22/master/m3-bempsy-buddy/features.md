@@ -4,7 +4,7 @@ weight = 2
 +++
 
 {{<section title="👮 Authentication with OTP">}}
-While registration or log in, all users need to **verify** their account with an **OTP** (One-Time-Password) through email or phone number. This increases the data security and helps securing personal information.
+While registration or log in, all users need to **verify** their account with an **OTP** (One-Time-Password) through email or phone number. This increases the data security and helps to secure personal information.
 {{</section>}}
 
 {{<gallery>}}
@@ -28,7 +28,7 @@ According to given profile information, a **specific matching score** will be ca
 {{</gallery>}}
 
 {{<section title="🙋 Making contact">}}
-A matching score displays the similarity, but users can still contact any person they like to. By having access to users profiles to get more information like motivation or experience, a user seeking support can decide for a **contact request at any time** with adding a **personal message** to it. Unfortunately not all buddies have the capacity to assist a user, which is why they can decline requests with a personal message too.
+A matching score displays the similarity, but users can still contact any person they like to. By having access to users profiles to get more information like motivation or experience, a user seeking support can decide for a **contact request at any time** with adding a **personal message** to it. Unfortunately, not all buddies have the capacity to assist a user, which is why they can decline requests with a personal message too.
 {{</section>}}
 
 {{<gallery>}}
@@ -52,7 +52,7 @@ After both users accept the request, a **personal chat room** will be created. C
 {{</gallery>}}
 
 {{<section title="🌐 Various Languages">}}
-The application is available in **different languages** to offer this service to a huge number of users and welcome them to the BEMpsy community. For more efficiency language packages were generated with the help of ChatGPT and verified afterwards. Following languages are offered in BEMpsy Buddy:
+The application is available in **different languages** to offer this service to a huge number of users and welcome them to the BEMpsy community. For more efficiency, language packages were generated with the help of ChatGPT and verified afterwards. The following languages are offered in BEMpsy Buddy:
 {{</section>}}
 {{<gallery>}}
 

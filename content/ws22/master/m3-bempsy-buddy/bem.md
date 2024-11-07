@@ -17,13 +17,13 @@ The following list demonstrates how many people or institutions are involved in 
 - employer
 - medical officer
 - (if participating in accompanying support for workplace) rehabilitation organization, like pension insurer or accident insurer
-- (in case of severely disabled employees) integration office, Schwerbehindertenvertretung (SBV),  stands for representative for severely disabled persons ) 
+- (in case of severely disabled employees) integration office, Schwerbehindertenvertretung (SBV - stands for representative for severely disabled persons ) 
 - other possible parties involved: managers, occupational safety experts, youth representatives, external BEM case managers, …
 
 {{</section>}}
 
 {{<section title="🤝 The Partners">}}
-The Team worked closely with the product owner **Prof. Dr. Juliane Siegeris** and the UX-designer **Brit Leissler**. In weekly meetings tasks, uncertainties and progresses could be discussed with the partners. **Thank you both for your work and precious time in the last months**. 
+The team worked closely with the product owner **Prof. Dr. Juliane Siegeris** and the UX-designer **Brit Leissler**. In weekly meetings tasks, uncertainties and progresses could be discussed with the partners. **Thank you both for your work and precious time in the last months**. 
 {{</section>}}
 
 {{<section title="🛟 BEMpsy Project">}}

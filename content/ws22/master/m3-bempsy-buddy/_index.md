@@ -14,11 +14,11 @@ supervisor = "Prof. Dr.-Ing. David Strippgen"
 
 {{<section title="🎯 Our Goal">}}
 Mental illness affects a significant portion of the population and can have a significant impact on an individual's ability to perform their job. Those affected lack the knowledge about possible courses of action and companies lack the corresponding competence to act. To this day, dealing with mental impairment is fraught with much uncertainty.
-BEMpsy is the key to that uncertainty and shall help people with mental health problems to get back on track with support of experts. The goal is to **restore and maintain the employees ability to work** and hence **preserve their workplace**.
+BEMpsy is the key to that uncertainty and shall help people with mental health problems to get back on track with support of experts. The goal is to **restore and maintain the employee's ability to work** and hence **preserve their workplace**.
 {{</section>}}
 
 {{<section title="💻 The Team">}}
-The team consists of five developers each individually skilled. For the most effective outcome the members were divided into two groups according to their personal expertise: **Backend** and **Frontend**. Each team group worked strongly together and gave each other weekly updates. When problems came up, all members helped each other. The closer the deadline approached, the closer the cooperation between all members was. At the end both groups needed to combine various components into one web application.
+The team consists of five developers, each individually skilled. For the most effective outcome, the members were divided into two groups according to their personal expertise: **Backend** and **Frontend**. Each team group worked strongly together and gave each other weekly updates. When problems came up, all members helped each other. The closer the deadline approached, the closer the cooperation between all members was. At the end, both groups needed to combine various components into one web application.
 
 - **Bach:** Backend & Frontend
 - **Felix:** Frontend & UI

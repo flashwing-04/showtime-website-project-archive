@@ -8,11 +8,11 @@ One important challenge was to understand and design an appropriate data model f
 {{</section>}}
 
 {{<section title="🗣️ Close Cooperation and Communication">}}
-Overall communication and close cooperation were significant parts of the project since exchanging information about features or general information about the application was crucial for the development process. **Without confirmation** and **wireframes** from the product owner, the **process could not be continued**. Since the application still had to be developed and the project had to make progress, own ideas and wireframes were designed as proposals. Unfortunately this self-initiated work had to be thrown away, which led to losing time and effort.
+Overall, communication and close cooperation were significant parts of the project, since exchanging information about features or general information about the application was crucial for the development process. **Without confirmation** and **wireframes** from the product owner, the **process could not be continued**. Since the application still had to be developed and the project had to make progress, own ideas and wireframes were designed as proposals. Unfortunately, this self-initiated work had to be thrown away, which led to losing time and effort.
 {{</section>}}
 
 {{<section title="📋 Major Changes">}}
-Throughout the process wireframes were changed, which led to an immense change of all data models and hence to an adjustment to all existing functionalities like authentication process or matching algorithm. Especially the registration process was changed several times resulting in dumping already designed frames and modifying lots of code parts. To **redesign the model concept, frontend frames** and **execute all adaptations** took quite some time, which was an enormous challenge coming up **shortly before the deadline**.
+Throughout the process, wireframes were changed, which led to an immense change of all data models and hence to an adjustment to all existing functionalities like the authentication process or matching algorithm. Especially the registration process was changed several times, resulting in dumping already designed frames and modifying lots of code parts. To **redesign the model concept, frontend frames** and **execute all adaptations** took quite some time, which was an enormous challenge coming up **shortly before the deadline**.
 {{</section>}}
 
 {{<section title="⏱️ Time Management and Complex Features">}}
