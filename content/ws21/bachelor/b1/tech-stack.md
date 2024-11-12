@@ -9,7 +9,7 @@ weight = 3
 Discord is a voice and text communication program. We used Discord throughout our project mainly for **communication**. We held our **weekly meetings** there and also **discussed problems or ideas** in the chat.
 
 ## Notion
-Notion is a project management program that we used to keep track of our **to-do's,deadlines,tests and more**. 
+Notion is a project management program that we used to keep track of our **to-do's, deadlines, tests and more**. 
 
 ## Adobe Illustrator
 Illustrator was mainly used to **illustrate our graphics, design ideas and statistics**. 
