@@ -34,7 +34,7 @@ Die Modelle werden hierbei mit der App installiert und sind folglich offline ver
 {{<section title="Xamarin">}}
 Xamarin.Forms ist ein open-source Framework zum Erstellen von Android, iOS und Windows Apps.
 
-Eine gemeinsame Codebasis aus in XAML geschriebener UI und dahinter liegendem C# Code für alle Plattformen ermöglicht es das Backend und Frontend einheitlich zu erstellen.
+Eine gemeinsame Codebasis aus in XAML geschriebener UI und dahinter liegendem C# Code für alle Plattformen ermöglicht es, das Backend und Frontend einheitlich zu erstellen.
 Xamarin übersetzt diesen Code und rendert die UI Elemente, um sie auf allen Plattformen nativ darstellen zu können.
 
 Funktionalitäten, die nicht plattformübergreifend implementierbar sind, wie z.B. low-level touch Erkennung oder das Auslesen der internen Daten, können auch speziell für die einzelnen Plattformen programmiert werden.
