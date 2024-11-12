@@ -7,10 +7,10 @@ weight = 1
 Who doesn't enjoy a round of "Battleship"? Inspired by this classic game, we came up with the idea of "shooting" asteroids 
 and alien spaceships. The coordinate system on which "Battleship" is also played offers the perfect opportunity to work 
 with complex numbers and make an entertaining but also educational game out of it. Since mathematics and guessing coordinates, 
-even if done strategically, don't really go together, we made some modifications. The targets aka asteroids or spaceships 
+even if done strategically, don't really go together, we made some modifications. The targets, aka asteroids or spaceships, 
 are already known in our game, these are eliminated step by step by solving mathematical tasks. With each level, more 
 knowledge about complex numbers will be involved. From simple drag and drop, to calculating the length and angle of a 
-vector/complex number, to practicing the transition between different forms of representation. For this we have developed
+vector/complex number, to practicing the transition between different forms of representation. For this, we have developed
 several functions:
 {{</section>}}
 

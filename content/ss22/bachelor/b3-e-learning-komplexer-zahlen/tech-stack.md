@@ -5,7 +5,7 @@ weight = 3
 
 {{<section title="Communication & Design">}}
 ## WhatsApp/Discord
-For our daily communication we used Discord and WhatsApp. With these apps, we could check in with everyone, ask how 
+For our daily communication, we used Discord and WhatsApp. With these apps, we could check in with everyone, ask how 
 things were going, or ask for help. Using Discord, we could also hold a spontaneous meeting if something else needed to 
 be discussed.<br>
 ## Jira
