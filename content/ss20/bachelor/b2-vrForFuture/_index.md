@@ -7,8 +7,6 @@ card_image = "preview.jpg"
 card_description = "Product Vision: 'We want to create a virtual reality game by exploring and experimenting with technology. Our game will present a playful experience in an environment with climbing and hunting features. Our ambitious mission is to make people experience the possibilities of virtual reality.' Following our vision we created our own game called Hunters Paths with virtual reality in a low poly game design."
 
 # These properties may be removed if you don't need them
-source_link = "https://github.com/VRForFuture/HuntersPathsPublic"
-demo_link = "https://github.com/VRForFuture/HuntersPathsBuilds"
 website_link = "https://vrforfuture.github.io/"
 
 team = ["Marino Gabel", "Jakob Heschl", "Niklas Janssen", "Denys Myroniuk", "Sebastian Pütz", "Martin Solihin"]
@@ -16,9 +14,9 @@ supervisor = "Prof. Dr. David Strippgen"
 +++
 
 {{<section title="Hunters Paths">}}
-We call our game "Hunters Paths". In the first level introduces the first mechanic, which is climbing.
-After you passed the quest the second mechanic in level 2 is "hunting". You can decide if you hunt with
-sword or more immersive with bow and arrow. In the end there will we a final hunt against a strong animal.
+We call our game "Hunters Paths". The first level introduces the first mechanic, which is climbing.
+After you passed the quest, the second mechanic in level 2 is "hunting". You can decide if you hunt with a
+sword or more immersive with bow and arrow. In the end there will be a final hunt against a strong animal.
 {{</section>}}
 
 {{<section title="Oculus Quest">}}
@@ -34,7 +32,7 @@ The Oculus Quest is a stand-alone VR-Headset running on an Android System with t
 It provides a wireless VR experience, therefore we optimized our game to run with a good performance on it.
 
 {{<section title="The Team">}}
-We are all astonished about VR technology and confident about it's role in the future.
+We are all astonished by VR technology and confident about it's role in the future.
 {{</section>}}
 {{< image src="teamwhite.png" alt="project image" width="1000">}}
 
@@ -46,6 +44,4 @@ We are all astonished about VR technology and confident about it's role in the f
 - [Videos](videos)
 - [Pictures](pictures)
 - [Homepage](https://vrforfuture.github.io/)
-- [Donwload](https://github.com/VRForFuture/HuntersPathsBuilds)
-- [Source Code](https://github.com/VRForFuture/HuntersPathsPublic)
 {{</section>}}
