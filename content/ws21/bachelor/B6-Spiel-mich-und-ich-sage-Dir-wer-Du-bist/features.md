@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{<section title="The Game" >}}
-After a shipwreck you find yourself stranded on a **small tropical island**. Luckily, the island isn't entirely deserted as you
+After a shipwreck you find yourself stranded on a **small tropical island**. Luckily, the island isn't entirely deserted, as you
 find a local inhabitant willing to help you. They would like to bring you to the main island, as there is a ship which might
 **bring you home**. But without any money, paying for the fare won't be possible. Luckily though, the Captain offered you a free
 ride in return for some **help around the island**. So go and see what the island inhabitants have in store for you!
@@ -40,7 +40,7 @@ of the individual's personality**.
 
 
 ## In-Game Evaluation
-To determine the players personality through a game, we are **evaluating the player's choices and playing-style**. For that, we
+To determine the player's personality through a game, we are **evaluating the player's choices and playing-style**. For that, we
 designed quests and dialog options **based on the survey questions**. \
 For example, to convert the question “I have a soft heart”, we created a scenario in which the player encounters a homeless person.
 Now, they can choose if they'd rather help or ignore him. \
@@ -51,7 +51,7 @@ calculation the survey uses** to evaluate the results.
 
 ## Questionnaire
 To check how well our game can imitate the classical test format, we also gave the players a regular **personality questionnaire**,
-using the questions from the german version of the **IPIP-Test** from Fritz Ostendorf. \
+using the questions from the German version of the **IPIP-Test** from Fritz Ostendorf. \
 To prevent our data being falsified by any influence the questionnaire might have on playing our game (or the game on answering
 the questionnaire) we decided to implement a 50/50 chance of getting the test either **before or after the game**. This actually
 proved to be a good decision later on, as the evaluation showed vastly different results for both groups.

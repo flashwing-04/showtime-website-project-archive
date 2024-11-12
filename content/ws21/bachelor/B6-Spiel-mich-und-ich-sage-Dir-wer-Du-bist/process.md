@@ -61,13 +61,13 @@ asked directly by one of the NPCs, we created **scenarios in which the player ha
 To prevent the game from being too linear, we decided to give the player some freedom by allowing them to **accept multiple quests
 at the same time**, and decide in which order they would like to complete them. \
 We grouped the quest together into individual sequences, each containing a few quests which can be completed in any order. To
-unlock the next sequence all key quests of the previous one have to be finished. \
+unlock the next sequence, all key quests of the previous one have to be finished. \
 For more variety, we also added some **optional quests**, which do not have to be completed to advance the storyline. Declining
 these quests has also been correlated to specific questionnaire items though, therefore even **not doing a quest** can be used to
-further **determine the players personality**.
+further **determine the player's personality**.
 
 After a lot of reviewing and improving the individual ideas, we had to link them all together to form a **coherent story line**. \
-For this we needed a bunch of interesting and diverse characters, each with their own little backstory based on the interaction
+For this, we needed a bunch of interesting and diverse characters, each with their own little backstory based on the interaction
 they'd later have with the player. So we designed different shops and professions, little families and hang out spaces and spread
 them out all around the island, to create a lively community. \
 Here we also paid extra attention to who will start which quest, by **planning everything out on our map**. We had to find a balance
@@ -79,7 +79,7 @@ many people as possible, but at the same time we had to prevent the walks from b
 
 ## Art Design
 To find a fitting art style for our game, we started with some brainstorming and sketching of possible islands and
-inhabitants designs. However we quickly noticed that we had **many different ideas**, not all of which fit together all that well.
+inhabitants designs. However, we quickly noticed that we had **many different ideas**, not all of which fit together all that well.
 Some were pixel art, others in isometric perspective and others again had a cartoony style. Also on the color front we had quite
 different visions: should the game rather be in bold and bright colors, pastels or maybe completely in grayscale?
 
@@ -101,7 +101,7 @@ them without having to worry about any copyright issues.
 To find sound **fitting to our setting** we started by looking for environmental tags like ocean, seagulls, wind or waves. We aimed
 for a simple, not too overwhelming sound environment, which should still **emphasise the island environment**.
 For the music we decided one acoustic guitar sounds, which are relaxed enough to not stand in grave contrast to the whole
-atmosphere, yet still pleasants enough to fit nicely to our setting
+atmosphere, yet still pleasant enough to fit nicely to our setting
 
 {{</section>}}
 
@@ -112,7 +112,7 @@ While the Design team was still busy, the Tech team already got started with cre
 player movement, quests and dialogs, as well as the game controller, which manages things like transitions, button inputs,
 or game start and pausing.
 
-Later on we fully implement the NPCs, proper dialog scripts, and the individual questlines. At this point we also had to
+Later on we fully implement the NPCs, proper dialog scripts, and the individual questlines. At this point, we also had to
 **adjust our earlier systems** a bit to fit our plans. The quests got separated into different types, the NPCs got new idle
 dialogs, and we implemented a complete new system: Sequences. These **connect all parts together** by managing whenever NPCs
 had to de/spawn, new quests had to start, or new dialog options had to be unlocked.
@@ -147,9 +147,9 @@ survey values.
 The average distances for Openness, Conscientiousness and Agreeableness are pretty low, as they are below 10, showing a **high
 similarity** between the game and survey result. The standard deviation shows how the values are spreading from the average or
 mean. Generally, 20 is an acceptable value for it, thus making Agreeableness an overall **good evaluated factor** by our game. \
-For the two mean values above 10, there are multiple causes. First of all, we had **less questions** from the questionnaire and
-less options to choose from in the game. We decided to do this to not overload the player with information, text and quests. \
-Another issue is the **non randomised order** of dialogue options in the game. Putting the same option at the same place is the
+For the two mean values above 10, there are multiple causes. First of all, we had **fewer questions** from the questionnaire and
+fewer options to choose from in the game. We decided to do this to not overload the player with information, text and quests. \
+Another issue is the **non-randomised order** of dialogue options in the game. Putting the same option at the same place is the
 right thing in a questionnaire, to not confuse anyone. In a game, where, in some cases, the choices are tied to progression,
 this is not recommendable. Players that are playing the game as a game, and not as a gamified personality assessment, might
 tend to pick the fastest option with no regards to what they would actually choose.

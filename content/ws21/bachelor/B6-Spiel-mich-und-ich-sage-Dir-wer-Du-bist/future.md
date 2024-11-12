@@ -19,11 +19,11 @@ projects utilising the experience we gathered during this one, remains to be see
 {{<section title="Additional Features">}}
 
 ## Sprechen Sie Deutsch?
-Currently the game is **only available in german**. To make it further accessible though, we thought about implementing at least an
+Currently the game is **only available in German**. To make it further accessible though, we thought about implementing at least an
 **English option**. However, this would have forced us to separate the evaluation into another test group, since the exact wording
 of a question can influence the answer greatly. It also would have taken us quite some extra time to translate the complete
 script and implement it. \
-Thus we decided to not include a language option into this release, it's still possible to add this feature later on.
+Thus, we decided to not include a language option into this release, it's still possible to add this feature later on.
 
 
 ## Quests, Quests, Quests
@@ -38,7 +38,7 @@ features. But in the future we might have the time for more elaborately designed
 
 ## A look in the Mirror
 Another feature we originally had planned was a **character creator**.
-We had actually already **started designing** this feature, and even implemented a first Prototype.
+We had actually already **started designing** this feature, and even implemented a first prototype.
 In the end however, we unfortunately had to **discard it for the final version**, due to a lack of time. Planned were different
 body types, hairstyles, accessories and color customization.
 

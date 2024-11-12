@@ -11,11 +11,11 @@ weight = 3
 
 ## Discord
 Our main communication tool was Discord, since it not only offers different **text channels for each department**, it also
-contains voice channels in which we could hold our **weekly meeting**. Like that we could easily share information, ask quick
+contains voice channels in which we could hold our **weekly meeting**. Like that, we could easily share information, ask quick
 questions or clarify issues, all while **keeping a clear overview**.
 
 ## Trello
-We used Trello to get an **overview** for the tasks, which needed to be dealt with. Trello was a good choice because we could label
+We used Trello to get an **overview** of the tasks, which needed to be dealt with. Trello was a good choice because we could label
 the tasks with **how important** they are, in **which department** they fall into. Additionally, everybody was able to see **who was
 working on what** right now, what tasks were **already done**, and what was still on our **To-Do-List**.
 
