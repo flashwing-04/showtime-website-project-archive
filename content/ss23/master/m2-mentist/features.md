@@ -18,7 +18,7 @@ Mentist incorporates a unique and user-centric feature that discreetly guides us
 
 * **Personalized evaluation**
 
-The application tracks important health data from users seamlessly in the background of conversations and questionnaires. This invisible yet powerful tool continuously evaluates users' emotional well-being as they engage with the chatbot, without any overt intrusion into the conversation. By discreetly monitoring user responses, Mentist compiles valuable data to assess changes in users' mental states over time. This integrated evaluation provides personalized insights into users' emotional patterns which are strongly important. 
+The application tracks important health data from users seamlessly in the background of conversations and questionnaires. This invisible yet powerful tool continuously evaluates users' emotional well-being as they engage with the chatbot, without any overt intrusion into the conversation. By discreetly monitoring user responses, Mentist compiles valuable data to assess changes in users' mental states over time. This integrated evaluation provides personalized insights into users' emotional patterns, which are strongly important. 
 
 * **Progress tracking calendar**
 

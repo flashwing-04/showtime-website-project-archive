@@ -27,7 +27,7 @@ Sleep plays a crucial role in mental health, and poor sleep can exacerbate emoti
 
 * **Gratitude diary**
 
-To promote positivity and gratitude, the future development of the chatbot includes a "happiness diary" feature. Users will have the option to record moments of joy, gratitude, and personal achievements. This diary will serve as a source of encouragement and serve as a reminder of the positives in their lives, contributing to overall mental well-being.
+To promote positivity and gratitude, the future development of the chatbot includes a "happiness diary" feature. Users will have the option to record moments of joy, gratitude, and personal achievements. This diary will serve as a source of encouragement and as a reminder of the positives in their lives, contributing to overall mental well-being.
 
 
 
