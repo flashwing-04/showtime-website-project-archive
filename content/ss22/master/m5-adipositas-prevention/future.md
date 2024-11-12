@@ -8,7 +8,7 @@ In our conception phase, we came up with a whole bunch of other ideas that we co
 {{</section>}}
 
 {{<section title="More educational content" >}}
-We believe that awareness and education is an important key to a lasting healthier life. Therefore, we have planned to provide more prepared content to users in order to provide more knowledge about nutrition and exercise.  
+We believe that awareness and education are important keys to a lasting healthier life. Therefore, we have planned to provide more prepared content to users in order to provide more knowledge about nutrition and exercise.  
 {{</section>}}
 
 {{<section title="More movement challenges" >}}

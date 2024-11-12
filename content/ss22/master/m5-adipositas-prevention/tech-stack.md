@@ -20,10 +20,10 @@ weight = 4
 
 {{<section title="Frontend">}}
 #### [Flutter](https://flutter.dev)
-- To build our app, we used Flutter. It is an open-source framework from Google that allows you to build platform independent apps, based on the programming language [Dart](https://dart.dev).
+- To build our app, we used Flutter. It is an open-source framework from Google that allows you to build platform-independent apps, based on the programming language [Dart](https://dart.dev).
 
 #### [Android Studio](https://developer.android.com/studio)
-- In order to run an emulator for our app, we used Android Studio which is a development environment from Google.
+- In order to run an emulator for our app, we used Android Studio, which is a development environment from Google.
 {{</section>}}
 
 
@@ -41,7 +41,7 @@ weight = 4
 - We decided to use this document-based database system for our application due to its flexibility. 
 
 #### [Postman](http://postman.com)
-- Postman is a platform where one can develop and test APIs which we have used a lot while developing the front- and backend.
+- Postman is a platform where one can develop and test APIs, which we have used a lot while developing the front- and backend.
 {{</section>}}
 
 

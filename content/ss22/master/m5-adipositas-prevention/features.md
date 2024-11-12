@@ -18,12 +18,12 @@ The main functionality of our app is to **improve your habits a bit each week** 
 {{</section>}}
 
 {{<section title="Keep Track Of Your Goals" >}}
-The weekly goals are sub-calculated to each day of the week, so you don't immediately see the big mountain of challenges in front of you, but small, **easily manageable units each day**. And if you don't manage to reach your goals on one day, you can simply make up for it on another day. *Your life is flexible, and so is the app!*
+The weekly goals are sub-calculated for each day of the week, so you don't immediately see the big mountain of challenges in front of you, but small, **easily manageable units each day**. And if you don't manage to reach your goals on one day, you can simply make up for it on another day. *Your life is flexible, and so is the app!*
 {{<image src="home.png" alt="Picture of Home Screen" caption="Daily Goals">}}
 {{</section>}}
 
 {{<section title="Move More" >}}
-AdyBuddy is based on a multimodal approach: exercise, nutrition and education. Exercise represents the first pillar. Children today move less than they did a few years ago. Therefore the user is given a daily step goal to achieve. More exercise challenges are planned for future releases to bring **more physical activities into the user's everyday life.**
+AdyBuddy is based on a multimodal approach: exercise, nutrition and education. Exercise represents the first pillar. Children today move less than they did a few years ago. Therefore, the user is given a daily step goal to achieve. More exercise challenges are planned for future releases to bring **more physical activities into the user's everyday life.**
 {{<image src="movement.gif" alt="GIF of nutrition screen" caption="Nutrition challenges">}}
 {{</section>}}
 
