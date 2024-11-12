@@ -20,23 +20,23 @@ Nonetheless, the overall work with the Oculus Quest was a **positive experience*
 
 {{<section title="GitHub">}}
 Many of us had little to no experience with Git at the beginning of this project.
-Luckily those with more experience were able to **help and recommended useful tools to learn Git**.
+Luckily, those with more experience were able to **help and recommended useful tools to learn Git**.
 We also decided on a **Git workflow** at the beginning of our development and documented it in our repository to avoid at least some merge conflicts and risk losing our work.
 We used GitHub over any other tool since we wanted to **share our code publicly**. Since we are using paid assets in our game, we have shared our code in a separate repository, which does not include the mentioned assets.
 We made a lot of use of the **review functionality** in GitHub, because we had decided to do code reviews on all of our pull requests.
 {{</section>}}
 
 {{<section title="Maya & Blender">}}
-For some of our ideas we could not find any free or affordable assets that would suit our needs perfectly. So we created them ourselves **first in Maya, then in Blender**.
-We started with Maya because we already had some experience with it thanks to the IMI 3D-Design course. However we realized, 
+For some of our ideas, we could not find any free or affordable assets that would suit our needs perfectly. So we created them ourselves **first in Maya, then in Blender**.
+We started with Maya because we already had some experience with it thanks to the IMI 3D-Design course. However, we realized, 
 that the support and help provided by the community is way more active on Youtube with another 3D-Modeling software, Blender. 
 So we started to use Blender and achieved some **satisfying results**.
 {{</section>}}
 
 {{<section title="Project Management">}}
 Our main communication tool was **Discord**, where we had multiple text and voice channels to share resources, discuss tasks and hold team meetings.
-To organize our tasks we worked with **Trello** where we had one board with multiple lists – one for each step of the development. 
+To organize our tasks, we worked with **Trello**, where we had one board with multiple lists – one for each step of the development. 
 Each task was assigned to at least one team member and we added labels to mark the importance and urgency of a task. 
 If there ever was the need to write something down, such as our game concepts, the game story, and meeting protocols, we used **Google Docs** for it. 
-This way multiple team members could work together at the same time. 
+This way, multiple team members could work together at the same time. 
 {{</section>}}

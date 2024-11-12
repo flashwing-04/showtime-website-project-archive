@@ -40,7 +40,7 @@ weight = 1
 - Color changing, with color change indicator in the form of fireworks
 - Throwable items: items that you can pick up and throw at the enemy
 - Endless mode, where the enemies keep spawning with an increasing speed
-- Story pieces: small floating pieces of papers, each displaying a part of the current map’s storyline
+- Story pieces: small floating pieces of paper, each displaying a part of the current map’s storyline
 {{</section>}}
 
 {{<section title="Fitness Aspects">}}

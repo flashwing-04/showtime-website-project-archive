@@ -29,7 +29,7 @@ Once the map regains its previous radiance, the player then gets the option of c
 The **A Spirit Tale** team benefits from a wide diversity across categories, such as semester, age and culture. For this project,
 we all came together and poured our passion for games and VR into it.
 
-At the very beginning each of us stated what kind of tasks they were interested in working on, which we then used as a guideline,
+At the very beginning, each of us stated what kind of tasks they were interested in working on, which we then used as a guideline,
 while distributing our tasks. Bartholomäus, Marie and Pauline mainly worked on **game programming**, while Juri, Nima and Nuri focused on **game design/art**.
 And finally we are all very thankful to our supervisor Prof. Strippgen for his support, fresh ideas and regular feedback.
 
