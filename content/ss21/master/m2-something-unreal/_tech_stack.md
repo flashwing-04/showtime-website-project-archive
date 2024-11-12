@@ -28,18 +28,18 @@ Blender is a 3D content creation software and was used to create almost all the 
 
 {{<section title="Texturing">}}
 * <strong>Affinity Photo & Affinity Designer</strong><br>
-Affinity Photo was used for simple manipulation of textures whereas Affinity Designer was our tool of choice for creating graphical UI elements for the game.
+Affinity Photo was used for simple manipulation of textures, whereas Affinity Designer was our tool of choice for creating graphical UI elements for the game.
 * <strong>Substance Designer</strong><br>
-When it came to creating procedural textures for materials and postprocessing effects we went with Substance Designer.
+When it came to creating procedural textures for materials and postprocessing effects, we went with Substance Designer.
 * <strong>Substance Painter</strong><br>
 Substance Painter was essential in 3D texturing our custom-made assets.
 {{</section>}}
 
 {{<section title="Audio">}}
 * <strong>Ableton Live</strong><br>
-Live was our main tool for composing the game score as well as creating the MIDI files that are used to drive rhythmic gameplay.
+Live was our main tool for composing the game score, as well as creating the MIDI files that are used to drive rhythmic gameplay.
 * <strong>MaxMSP & Max4Live</strong><br>
-We used Max to build a translation layer that would convert musical cues to usable gampeplay events. The tight integration of Max into Live via Max4Live made it easy to do quick iterations of the gameplay.
+We used Max to build a translation layer that would convert musical cues to usable gameplay events. The tight integration of Max into Live via Max4Live made it easy to do quick iterations of the gameplay.
 {{</section>}}
 
 {{<section title="Communication">}}
