@@ -23,7 +23,7 @@ durch eine Visualisierung, auf Basis von generativer Gestaltung, und den auditiv
 
 {{< image src="UserInteraction.jpg" width="1050" alt="Beispielbild für Visualisierung" >}}
 
-Die Visualisierung dient dazu dem Besucher zu vermitteln, dass er als Akteur Teil der Installation ist. Der auditive Teil wiederum greift verschiedene Energiethemen auf. Diese werden über Audio-Samples und Sound-Kulissen repräsentiert. Hierbei ist es den Besuchern möglich durch Bewegung im Raum die Inhalte zu erkunden.
+Die Visualisierung dient dazu dem Besucher zu vermitteln, dass er als Akteur Teil der Installation ist. Der auditive Teil wiederum greift verschiedene Energiethemen auf. Diese werden über Audio-Samples und Sound-Kulissen repräsentiert. Hierbei ist es den Besuchern möglich, durch Bewegung im Raum die Inhalte zu erkunden.
 
 Das Hauptaugenmerk liegt auf der Kollaboration der Besucher, denn durch das Zusammenkommen soll ein Transformationsprozess in Gang gesetzt werden, durch den sich die Intensität und Repräsentation der Inhalte verändert.
 {{</section>}}
@@ -35,8 +35,8 @@ Grundsätzlich untergliedert sich die Implementierung der Installation in 3 tech
 {{</section>}}
 
 {{<section title="Technische Umsetzung">}}
-Die technische Grundlage der Installation stellt die Gewinnung der Positions- und Bewegungsdaten dar. Dafür werden drei nach unten gerichtete Kameras werden an dem Deckengewölbe der Spreehalle installiert, welche die Besucher erfassen.
-Die gewonnen Daten gelten als Grundlade für die Visualisierung und Sound-Kulisse innerhalb der Spreehalle.
+Die technische Grundlage der Installation stellt die Gewinnung der Positions- und Bewegungsdaten dar. Dafür werden drei nach unten gerichtete Kameras an dem Deckengewölbe der Spreehalle installiert, welche die Besucher erfassen.
+Die gewonnenen Daten gelten als Grundlage für die Visualisierung und Sound-Kulisse innerhalb der Spreehalle.
 
 {{< image src="RaumstrukturTechnik.jpg" alt="Beispielbild für Visualisierung" >}}
 {{</section>}}
