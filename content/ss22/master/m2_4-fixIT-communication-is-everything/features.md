@@ -5,8 +5,8 @@ weight = 1
 +++
 
 {{<section title="Extendable first version" >}}
-Throughout the semester we were able to design and develop a first version of our game. 
-Due to the limited time we had to set aside many ideas and compromise on several aspects of the final game design. 
+Throughout the semester, we were able to design and develop a first version of our game. 
+Due to the limited time, we had to set aside many ideas and compromise on several aspects of the final game design. 
 Keeping that in mind, we made sure to design all aspects of our game intuitively so that the software remains easily 
 extensible. Additionally, we created a 
 [documentation](https://github.com/Master-project-Interaktion-in-VR/Project_InteractionInVR/blob/main/CONTRIBUTE.md) 
@@ -30,7 +30,7 @@ information from the ship's computer.
 
 #### Calibration of desk
 One of the first tasks that needs to be solved by the VR player, is the calibration of a real-world desk. 
-This does not only ensure that the player gets familiar with the virtual environment and the controls of the game it 
+This does not only ensure that the player gets familiar with the virtual environment and the controls of the game, it 
 is also vital for the subsequent gameplay. Since we included a table in the real-world as a haptic element, we needed 
 to make sure that the player is always protected while walking and teleporting around the environment freely. 
 Therefore, we installed safe walls around the virtual table that prevented the player from bumping into the table.
@@ -41,9 +41,9 @@ Therefore, we installed safe walls around the virtual table that prevented the p
 </figure>
 
 #### Finding antenna parts
-During the first part the VR player has to find a total of six lost antenna parts randomly hidden in the environment.
-Once the VR player found an antenna part, it can be stowed away in an item pouch and automatically appears on the 
-table as the game progressed. The PC player meanwhile has access to a minimap that displays the locations of the parts.
+During the first part, the VR player has to find a total of six lost antenna parts randomly hidden in the environment.
+Once the VR player finds an antenna part, it can be stowed away in an item pouch and automatically appears on the 
+table as the game progresses. The PC player, meanwhile, has access to a minimap that displays the locations of the parts.
 
 {{<image src="pc_view_with_open_minimap.jpg" alt="pc view with opened minimap" caption="PC view with opened minimap">}}
 
@@ -54,7 +54,7 @@ gives the player in VR information about how close or far away the next antenna 
 
 Additionally, we set up a button that enables the PC player to trigger a sound signal on the VR headset. 
 This not only serves to convey location information, but also provides the ability to give audible feedback to the 
-VR players as they solved tasks.
+VR players as they solve tasks.
 
 Lastly, the VR player can also use the controller to draw on the ground. The PC player can control the camera that 
 follows the VR avatar to zoom in on the drawings.
@@ -88,7 +88,7 @@ As a final task, the PC player is presented with a control panel that displays b
 {{<image src="pc_view_with_open_controlpanel.jpg" alt="PC View with opened control panel" caption="Final PC GUI with opened control panel">}}
 
 The VR player is now shown which buttons should be pressed and in which order. The VR player can also draw with 
-their finger on a predetermined area on the real-world table. Once the task is completed the antenna 
+their finger on a predetermined area on the real-world table. Once the task is completed, the antenna 
 is activated and triggers a final video that shows how the VR player was teleported back to the spacecraft.
 
 <figure>
@@ -99,7 +99,7 @@ is activated and triggers a final video that shows how the VR player was telepor
 {{</section>}}
 
 {{<section title="Items" >}}
-During game play the VR player can not only switch between controller and hand tracking input but can also choose two 
+During game play, the VR player can not only switch between controller and hand tracking input but can also choose two 
 additional items. The first element is a metal detector that receives the sound and vibration signals from the 
 PC player and thus shows the VR player the right way to the antenna parts. The second element is a magnifying 
 glass that can be used to make the antenna parts visible: an item only becomes visible and collectible in the 

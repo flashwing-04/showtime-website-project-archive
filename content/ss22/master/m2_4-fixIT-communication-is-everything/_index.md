@@ -24,7 +24,7 @@ But the realistic representation of the world has its limits when it comes to in
 Therefore, we wanted to explore whether these technologies are sufficient to exchange information and solve tasks 
 together even if players are not using the same terminal device.
 
-With FixIT, we developed a multimodal game that requires nonverbal communication between a PC player and on in VR. 
+With FixIT, we developed a multimodal game that requires nonverbal communication between a PC player and one in VR. 
 We expect user tests to show that players are able to communicate effectively using the proposed technologies, 
 even when one person is playing in VR and the other is not. We also expect that the communication modalities we 
 used create a noticeable social presence between the two players, even when they can’t see or hear each other.
@@ -32,9 +32,9 @@ The final results will be presented at this year's Showtime.
 {{</section>}}
 
 {{<section title="The Team">}}
-Our team consists of seven developers each with an individual set of skills, including but not limited to **game development, virtual reality, web development, user experience** and **design**. All team members had prior experience in working with **Unity**. 
+Our team consists of seven developers, each with an individual set of skills, including but not limited to **game development, virtual reality, web development, user experience** and **design**. All team members had prior experience in working with **Unity**. 
 
-During development we had access to three **Oculus Quest** virtual reality headsets, which only one of us had previously worked with. As students of the course _International Media and Computing_ we are interested in modern technologies and aspire to develop user friendly multimodal applications.
+During development, we had access to three **Oculus Quest** virtual reality headsets, which only one of us had previously worked with. As students of the course _International Media and Computing_ we are interested in modern technologies and aspire to develop user friendly multimodal applications.
 
 {{</section >}}
 
