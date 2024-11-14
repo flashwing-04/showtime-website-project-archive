@@ -26,7 +26,7 @@ Using the latest AI technology, we let users have the flexibility to choose thei
 {{<section title="The Team">}}
 **Meet the Brilliant Minds Behind ShopGPT**
 
-The ShopGPT team is a dynamic and talented team of four IMI-Master students. Individually, we bring diverse skills and perspectives to the table. From machine learning and natural language processing to user experience design and software engineering, our collective expertise ensures that ShopGPT is built on a solid foundation of innovation, reliability, and user-centricity. Throughout the project period, we had actively supported each other by pair programming and knowledge sharing for the most effective outcome.
+The ShopGPT team is a dynamic and talented team of four IMI-Master students. Individually, we bring diverse skills and perspectives to the table. From machine learning and natural language processing to user experience design and software engineering, our collective expertise ensures that ShopGPT is built on a solid foundation of innovation, reliability, and user-centricity. Throughout the project period, we have actively supported each other by pair programming and knowledge sharing for the most effective outcome.
 {{</section>}}
 
 {{<image src="team.png" alt="team">}}

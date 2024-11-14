@@ -69,6 +69,6 @@ We came together as a team to exchange ideas and find creative solutions. This c
 not only strengthened our team's cohesion but also created a supportive and friendly atmosphere within our development team.
 
 To ensure the reliability and stability of our application, **thorough testing was conducted both manually and automatically** 
-by added using GitHub Action pipelines. The manual and automated testing process helped us identify and address any potential 
+by using GitHub Action pipelines. The manual and automated testing process helped us identify and address any potential 
 issues or bugs, guaranteeing a robust shopping assistant experience for our users.
 {{</section>}}

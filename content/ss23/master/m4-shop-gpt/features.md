@@ -5,7 +5,7 @@ weight = 2
 
 {{<section title="Product Search And Filter">}}
 The AI-powered product search and filter feature is the core functionality of shopGPT, 
-designed to help users find and buy products through **_idealo.de_**. The user can specify preferences 
+designed to help users find and buy products through **_idealo.de_**. The user can specify preferences, 
 such as price range, brand, or other relevant criteria to narrow down the list of products displayed.
 
 {{<image src="filter_products.png" alt="filter-products" caption="Product Filter">}}
@@ -27,7 +27,7 @@ drawing insights from the official **_idealo_** page of the product's category.
 {{</section>}}
 
 {{<section title="Image Search">}}
-Tired of typing long text? With ShopGPT, you can effortlessly find your desired product by simply uploading an image.
+Tired of typing long texts? With ShopGPT, you can effortlessly find your desired product by simply uploading an image.
 
 {{<image src="image_search.png" alt="image-search" caption="Search Product by image">}}
 {{</section>}}
@@ -45,7 +45,7 @@ With our Chatbot Response Creativity Selection, you can set the tone of your con
 {{</section>}}
 
 {{<section title="UI Themes">}}
-Have you ever been in a theme battle? No worry, customers preferences are important to us. ShopGPT lets you choose your preferred theme while using the app.
+Have you ever been in a theme battle? No worries, customers preferences are important to us. ShopGPT lets you choose your preferred theme while using the app.
 
 {{<image src="themes.png" alt="themes" caption="Dark / Light Theme">}}
 {{</section>}}
