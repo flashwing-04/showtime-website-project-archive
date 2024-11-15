@@ -10,7 +10,7 @@ We made use of Node.js, which is an asynchronous event-driven JavaScript runtime
 {{</section>}}
 
 {{<section title="MongoDB">}}
-We decided to work with MongoDb, which is a document-oriented database system, classified as a NoSQL database program. It is really simple to use, but offers deep query-abilities at the same time.
+We decided to work with MongoDB, which is a document-oriented database system, classified as a NoSQL database program. It is really simple to use, but offers deep query-abilities at the same time.
 {{</section>}}
 
 {{<section title="Docker">}}
@@ -18,11 +18,11 @@ Our application runs on a virtual machine within a Docker container. Because con
 {{</section>}}
 
 {{<section title="Testing & Continuous Integration">}}
-We thoroughly tested our application with Cypress.io, which is a fast and actually really fun testing tool, because you can see the tests being run in your browser! We integrated Cypress in our Continuous Integration pipeline that was run by Travis CI on Github.
+We thoroughly tested our application with Cypress.io, which is a fast and actually really fun testing tool, because you can see the tests being run in your browser! We integrated Cypress in our Continuous Integration pipeline that was run by Travis CI on GitHub.
 {{</section>}}
 
 {{<section title="Communication & Sprint Planning">}}
-We used a form of SCRUM to organize our project work and therefore used Jira for the sprint plannings. Our communication happened via Slack & Discord. Apart from that we probably used all common tools like GoogleDocs and friends.
+We used a form of SCRUM to organize our project work and therefore used Jira for the sprint plannings. Our communication happened via Slack and Discord. Apart from that, we probably used all common tools like Google Docs and friends.
 {{</section>}}
 
 We are nearly at the end. But what's next? Read about the things we planned for the future:

@@ -16,7 +16,7 @@ supervisor = "Prof. Dr. Barne Kleinen"
 {{< image src="logo.png" alt="The Missing Tool Board" >}}
 
 {{<section title="Description">}}
-The Missing Tool allows users to collaborate in real-time on an online whiteboard where they can brainstorm ideas, create working groups and chat with their team members – all without the hurdles of creating yet another user account. Working remotely in a team often turns out to be more tiring than having real conversations face to face, caused either by technical issues like bad internet connection or user interfaces that are not self-explanatory. With The Missing Tool you can say hello to user-friendly, effective real-time collaboration and goodbye to endless breakout rooms and muted microphones.
+The Missing Tool allows users to collaborate in real-time on an online whiteboard where they can brainstorm ideas, create working groups and chat with their team members – all without the hurdles of creating yet another user account. Working remotely in a team often turns out to be more tiring than having real conversations face-to-face, caused either by technical issues like bad internet connection or user interfaces that are not self-explanatory. With The Missing Tool, you can say hello to user-friendly, effective real-time collaboration and goodbye to endless breakout rooms and muted microphones.
 {{</section>}}
 
 {{< image src="screenshot_1.png" alt="The Missing Tool Board" caption="The Board with different cards and chat" >}}
