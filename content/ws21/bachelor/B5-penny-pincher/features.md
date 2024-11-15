@@ -18,7 +18,7 @@ After that you will be sent to the Live Feed.
 <img src="/ws21/bachelor/b5-penny-pincher/LiveFeed.png" width="350px" style="float:right;padding:0 20px 20px 0">
 <br>
 <p style="font-size:18px;">
-The Live Feed is the <b>main feature</b> of this app. Here you can choose one or more of the eleven main categories you're interested in and see "live" <b>the newest bargains</b> for these products. Our idea behind this page was to help people who are <b>searching for presents</b> and aren't sure exactly what they want. Or maybe you're just want to hunt bargains!
+The Live Feed is the <b>main feature</b> of this app. Here you can choose one or more of the eleven main categories you're interested in and see "live" <b>the newest bargains</b> for these products. Our idea behind this page was to help people who are <b>searching for presents</b> and aren't sure exactly what they want. Or maybe you're just wanting to hunt bargains!
 If you do <b>not</b> choose <b>any</b> categories, then you see <b>all products</b> from all categories.
 </p>
 {{</section>}}
@@ -28,8 +28,8 @@ If you do <b>not</b> choose <b>any</b> categories, then you see <b>all products<
 <img src="/ws21/bachelor/b5-penny-pincher/browser.png" width="350px" style="float:left;padding:0 20px 20px 0">
 <br>
 <p style="font-size:18px;">
-Are you still searching a birthay present? Then this is the right place for you!
-In the Categories you can <b>choose from all the categories and subcategories</b> that our App has to offer!
+Are you still searching for a birthday present? Then this is the right place for you!
+In the Categories, you can <b>choose from all the categories and subcategories</b> that our App has to offer!
 This is especially helpful, when you know exactly what you're looking for.
 Once you find the perfect item, you <b>can buy it</b> or <b>add it to Favorites</b>!
 </p>
@@ -71,7 +71,7 @@ Some bargains have a time limit and Favorites are going to refresh themselves au
 <img src="/ws21/bachelor/b5-penny-pincher/Search.png" width="350px" style="float:left;padding:0 20px 20px 0">
 <br>
 <p style="font-size:18px;">
-Once you have <b>chosen a category</b>, you can use the search bar to <b>find items</b> you're interested in, or search for specific keywords.. Your <b>latest search</b> will be <b>saved</b> for an easier access later on.
+Once you have <b>chosen a category</b>, you can use the search bar to <b>find items</b> you're interested in, or search for specific keywords. Your <b>latest search</b> will be <b>saved</b> for an easier access later on.
 It can be accessed from the Favorites and the Categories.
 The search bar in Favorites allows you to look <b>through your saved items</b> in case you have a lot of products there.
 </p>
