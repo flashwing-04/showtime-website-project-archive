@@ -4,7 +4,7 @@ project_id = "M6"
 
 # Properties for displaying the project in the project list
 card_image = "imimap_logo.png"
-card_description = "IMI-Internships - hard to find and tedious to administrate? The IMI-Map is here to help! The almost 8-years-old web application, which supports students with finding an internship and the internship officer with the administration of the internships, has made another big step to even better accommodate for these tasks and the newly digitalized processes that were developed during the COVID19-Pandemic."
+card_description = "IMI-Internships - hard to find and tedious to administrate? The IMI-Map is here to help! The almost 8-year-old web application, which supports students with finding an internship and the internship officer with the administration of the internships, has made another big step to even better accommodate for these tasks and the newly digitalized processes that were developed during the COVID-19 pandemic."
 
 
 # These properties may be removed if you don't need them
@@ -40,10 +40,10 @@ The goal of the original IMI-Map was to support students with finding an interns
 
 
 {{<section title="The Goal">}}
-Even tough Ruby on Rails is a stable and still current web framework, the study program is increasingly using more modern JavaScript-based frameworks. In order to make the IMI-Map more easily integrable into other courses and student projects the main objective was to:
-* Migrate the IMI-Map as it is from Ruby on Rails to the MEVN-Stack (Mongo, Express, Vue und Node.js).
-* The migration of the IMI-Map to the MEVN-Stack also poses the question on how to migrate the data of the IMI-Map safely without regression and loss of data to the new IMI-Map.
-* At the end of the project the old IMI-Map should be able to be replaced by the new version.
+Even though Ruby on Rails is a stable and still current web framework, the study program is increasingly using more modern JavaScript-based frameworks. In order to make the IMI-Map more easily integrable into other courses and student projects the main objective was to:
+* Migrate the IMI-Map as it is from Ruby on Rails to the MEVN-Stack (Mongo, Express, Vue and Node.js).
+* The migration of the IMI-Map to the MEVN-Stack also poses the question of how to migrate the data of the IMI-Map safely without regression and loss of data to the new IMI-Map.
+* At the end of the project, the old IMI-Map should be able to be replaced by the new version.
 {{</section>}}
 
 
@@ -51,11 +51,11 @@ Even tough Ruby on Rails is a stable and still current web framework, the study 
 {{<section title="The Team">}}
 As a team of five we had very different background knowledge present in the team. Some of us have worked with the IMI-Map before, others had never even seen it. Some of us had prior knowledge about the process of the IMI-Internships from varied perspectives, others had not even gone through the internship process themselves. Some of us had worked with the MEVN-Stack before, others had not.
 
-Including all these points of views, perspectives and bits of knowledge was a challenge and the reason we decided not to give fixed roles to people. Over the course of time a few key areas of work developed anyway:
+Including all these points of views, perspectives and bits of knowledge was a challenge and the reason we decided not to give fixed roles to people. Over the course of time, a few key areas of work developed anyway:
 * **Jakob** and **Robin** worked mainly on the frontend
 * **Linda** worked mainly on the backend
 * **Lotte** was our interface and intermediary to the old IMI-Map, Quality Assurance, PR
-* **Luis** worked mainly in dev ops, data migration and on the backend
+* **Luis** worked mainly in DevOps, data migration and on the backend.
 {{</section >}}
 
 {{<gallery>}}
