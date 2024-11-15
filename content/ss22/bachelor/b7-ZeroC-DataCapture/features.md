@@ -7,7 +7,7 @@ weight = 1
 {{<image src="Component 1.png" alt="placeholder">}}
 
 <p style="font-size:18px;">
-The OAuth 2.0 protocoll allows a secure authentication and authorization of users. That was the original idea of how we were supposed to perform the authentication. Unfortunately, there were some complications with its implementation. Therefore, as a plan B we decided to store the login data locally on mobile devices.
+The OAuth 2.0 protocol allows a secure authentication and authorization of users. That was the original idea of how we were supposed to perform the authentication. Unfortunately, there were some complications with its implementation. Therefore, as a plan B we decided to store the login data locally on mobile devices.
 </p>
 {{</section>}}
 
@@ -15,7 +15,7 @@ The OAuth 2.0 protocoll allows a secure authentication and authorization of user
 {{<image src="Component 2.png" alt="placeholder">}}
 
 <p style="font-size:18px;">
-All the history of added meter data is available to users at any time due to the AsyncStorage technology. The Overview screen displays the date of making the data entry as well as the readings and meter type.
+All the history of added meter data is available to users at any time due to the AsyncStorage technology. The Overview screen displays the date of making the data entry, as well as the readings and meter type.
 </p>
 {{</section>}}
 
