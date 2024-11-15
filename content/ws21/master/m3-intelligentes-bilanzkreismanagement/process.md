@@ -18,16 +18,16 @@ If needed, we ended the sprint with a retrospective. Our process also included t
 
 Since none of our team members initially knew what balancing group management is, we invested a small amount of time in researching the topic to understand what the regular tasks of a balancing group manager are.
 
-Our first goal was to keep the project as close to the user's needs as possible. Then we prepared a user interview, to get a sense of our users needs.
-Through Exxeta we were able to do the user interview with a balancing group manager. his helped us to identify which features would be important to have in a minimum viable product that could support a full basic user workflow.
+Our first goal was to keep the project as close to the user's needs as possible. Then we prepared a user interview, to get a sense of our user's needs.
+Through Exxeta we were able to do the user interview with a balancing group manager. This helped us to identify which features would be important to have in a minimum viable product that could support a full basic user workflow.
 
-During the evaluation of the user interview we clustered the results and extracted different features out of the information we gathered.
-These were then encapsulated into user stories which were the foundation of our sprints.
+During the evaluation of the user interview, we clustered the results and extracted different features out of the information we gathered.
+These were then encapsulated into user stories, which were the foundation of our sprints.
 
 {{<image src="InterviewNotes.jpg" alt="Interview Notes" caption="Screenshot of our Miro Board - Clustered Interview Notes and Result">}}
 
-At the end of our development phase, we conducted a final user test to evaluate our prototype. For this, we prepared a complete user flow through the application. The interviewee then was prompted small tasks that would require her/him to go through that user flow.
-During the execution of those tasks we took notes on what went well and what problems the interviewee had to face when using the application.
+At the end of our development phase, we conducted a final user test to evaluate our prototype. For this, we prepared a complete user flow through the application. The interviewee then was prompted with small tasks that would require her/him to go through that user flow.
+During the execution of those tasks, we took notes on what went well and what problems the interviewee had to face when using the application.
 We also paid close attention to feature and improvement suggestions that the interviewee made.
 As well as for the first interview, we again clustered all the notes and extracted future user stories for our application.
 
@@ -35,7 +35,7 @@ As well as for the first interview, we again clustered all the notes and extract
 
 #### Our Design Process
 
-The design process was straightforward as Katharina and Nhu already have experience. ith the help of Figma, both could easily work on different designs in parallel first. Afterwards, they came together and discussed their ideas, the advantages and disadvantages of the designs. After each bi-weekly sprint, the design decisions were presented to the whole team. We've had the opportunity to work with Daniel Heusohn, a UX-Designer from Exxeta, from whom we received valuable feedback.
+The design process was straightforward, as Katharina and Nhu already have experience. With the help of Figma, both could easily work on different designs in parallel first. Afterwards, they came together and discussed their ideas, the advantages and disadvantages of the designs. After each bi-weekly sprint, the design decisions were presented to the whole team. We've had the opportunity to work with Daniel Heusohn, a UX-Designer from Exxeta, from whom we received valuable feedback.
 
 The overall design process was as follows:
 
@@ -66,23 +66,23 @@ Check out our **Figma project**:
 {{<section title="Development">}}
 
 #### Frontend
-During the early stages of our project we decided to build our application on Reactjs using Typescript, since it helps to avoid runtime errors in our app that otherwise possibly would have come up using Javascript.
+During the early stages of our project, we decided to build our application on Reactjs using Typescript, since it helps to avoid runtime errors in our app that otherwise possibly would have come up using Javascript.
 We also wanted to have a **great performance**, **easy scalability** and all in all **high quality** for the frontend.
-In reach that goal we decided to use Tailwind CSS (Just In Time Mode) and its utility first approach. While in traditional CSS it is common to build classes in which different properties define how a certain element behaves and looks,
+To reach that goal, we decided to use Tailwind CSS (Just In Time Mode) and its utility first approach. While in traditional CSS it is common to build classes in which different properties define how a certain element behaves and looks,
 using the utility first approach flips this idea and instead provides classes that hold one specific property. The component then can be styled by combining these classes.
 {{<image src="UfBeforeAfter.png" alt="Example before/after utility first apporach" caption="Markup example before and after Utility First">}}
 
-Through the Utility First approach we were able to focus on building our components without having to take care of scaling our CSS or use specific methodologies like BEM.
-When building the app the final CSS file only contains the classes that we actually used in our code which helps to avoid the need of loading a complete and huge CSS library and therefore **guarantees fast rendering time** in the browser.
+Through the Utility First approach, we were able to focus on building our components without having to take care of scaling our CSS or use specific methodologies like BEM.
+When building the app the final CSS file only contains the classes that we actually used in our code, which helps to avoid the need of loading a complete and huge CSS library and therefore **guarantees fast rendering time** in the browser.
 
-Since we were already using Tailwind CSS we decided to use Headless UI for our UI components like dropdown menus, transitions, tabs, etc. The reason for this decision was to keep the frontend as independent and lightweight as possible as Headless UI only delivers unstyled UI components that then can be styled using Tailwind's classes.
+Since we were already using Tailwind CSS, we decided to use Headless UI for our UI components like dropdown menus, transitions, tabs, etc. The reason for this decision was to keep the frontend as independent and lightweight as possible, as Headless UI only delivers unstyled UI components that then can be styled using Tailwind's classes.
 
-During the entire development process we made sure that everything we developed during a sprint would get a full technical/code and functional review to ensure that we only deliver quality, readable code that is easy to maintain and extended in the future.
+During the entire development process, we made sure that everything we developed during a sprint would get a full technical/code and functional review to ensure that we only deliver quality, readable code that is easy to maintain and extended in the future.
 We also implemented basic integration tests for our frontend using Cypress.
 
 #### Backend
 The backend was built using the Expressjs framework running on a Nodejs Server on AWS Lambda. The main task of the backend is to process and transform CSV files with raw forecast data which were generated by the KI-Model and stored on another S3 bucket. After processing, our backend provides the data in JSON format to our frontend using a HTTP endpoint.
-In minimize resources and setup, as well as server costs, we built the project based on a serverless architecture using AWS Lambda functions. These only run when their HTTP endpoint gets called and only require a minimum of computing power. One Lambda Function on AWS usually only has one task, so whenever our application has to be extended in the future it is very easy to implement more functionality by adding more Lambda Functions.
+To minimize resources and setup, as well as server costs, we built the project based on a serverless architecture using AWS Lambda functions. These only run when their HTTP endpoint gets called and only require a minimum of computing power. One Lambda Function on AWS usually only has one task, so whenever our application has to be extended in the future, it is very easy to implement more functionality by adding more Lambda Functions.
 Building the app this way, we avoid all fix costs for the project since there is no need for renting servers. The only (variable) cost centers are:
 - The storage that the prediction data and our React app require.
 - The Computing Power (RAM) that our Lambda functions require when they run.
@@ -94,8 +94,8 @@ Since machine learning predictions are usually difficult to understand, we used 
 {{<section title="Challenges">}}
 At the start of the project, we were brimming with ideas, but due to time constraints, we had to limit ourselves to the most important features. With the help of the initially conducted user interview, we were able to map a complete working user flow within our MVP. Eventually, we were able to validate these ideas in a user test.
 
-When building our frontend using Tailwind CSS we wanted to stick as close as possible to the Utility First approach. Unfortunately we encountered some edge cases that required us to write classic CSS for example when animating our basic components like our input text field or when implementing focus, active and hover states for our elements.
+When building our frontend using Tailwind CSS, we wanted to stick as close as possible to the Utility First approach. Unfortunately, we encountered some edge cases that required us to write classic CSS for example when animating our basic components like our input text field or when implementing focus, active and hover states for our elements.
 
-Furthermore the entire concept of serverless software architecture was new to us, so we had to invest a good amount of time in research before we were able to start developing. Creating an AWS account to test the technology was a challenge, as this had to be done in several steps with verification directly through Amazon. In the end, we have the following new technologies in hand: AWS services including Lambda function, s3 bucket, serverless framework to deploy the function.
+Furthermore, the entire concept of serverless software architecture was new to us, so we had to invest a good amount of time in research before we were able to start developing. Creating an AWS account to test the technology was a challenge, as this had to be done in several steps with verification directly through Amazon. In the end, we have the following new technologies in hand: AWS services including Lambda function, s3 bucket, a serverless framework to deploy the function.
 {{</section>}}
 
