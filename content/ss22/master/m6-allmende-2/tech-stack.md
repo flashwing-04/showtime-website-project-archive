@@ -10,21 +10,21 @@ weight = 5
 {{<section title="Architecture">}}
 {{<image src="architecture.jpg" alt="architecture" caption="architecture">}}
 
-The architecture is seperated into three layers: Machine Learning Mircoservice, Backend and Frontend. 
-The Machine Learning Mircoservice get requests from the Backend with an image that should be classified. Inside the Machine Learning Mircoservie a Flask instance is running to handle requests from the Backend. When a image should be classified the TensorFlow Model uses our trained models to classify the image and sends a response with information about which animal could be classified.
+The architecture is separated into three layers: Machine Learning Microservice, Backend and Frontend. 
+The Machine Learning Microservice gets requests from the Backend with an image that should be classified. Inside the Machine Learning Microservice a Flask instance is running to handle requests from the Backend. When a image should be classified, the TensorFlow Model uses our trained models to classify the image and sends a response with information about which animal could be classified.
 
-In the Backend we use Node.js in combination with express. The Node.js Backend provides a Rest API for the Frontend. The Node.js environment communicates with mongoDB to persists data and uses an instance of Redis to save the session cookies.
+In the Backend, we use Node.js in combination with express. The Node.js Backend provides a Rest API for the Frontend. The Node.js environment communicates with mongoDB to persists data and uses an instance of Redis to save the session cookies.
 
-The Frontend communicated with the Backend to persist or to request data. Therefore we used Vue.js to create a Single Page Application. To save global state like user information during the visition on the site we used Pinia.
+The Frontend communicated with the Backend to persist or to request data. Therefore, we used Vue.js to create a Single Page Application. To save global state like user information during the visitation on the site we used Pinia.
 
-For the whole system we use Docker to improve the communication between all three layers in our application. To get the Services run in a Productive environment we added Nginx as a Load Balancer. The communication inside of the docker container works as follows: the clients send the requests to the host. The server itself exposed the ports 80 and 443 for the clients, which are responsible for the http- and https-protocol. These open ports are linked to the exposed “Nginx”-container ports and incoming request from the clients are redirected to this load balancer. The load balancer handles all the requests and sends these to the corresponding containers inside the Docker environment. The clients do not have direct access to the other running services since these containers have not expose the ports to the host machine.  Requests URLs which have the “api”-string part in it will be redirected to the “NodeJS”-service (server container) while other not matching route will be redirected to the “Vue”-container (the frontend service).
+For the whole system we use Docker to improve the communication between all three layers in our application. To get the Services run in a Productive environment, we added Nginx as a Load Balancer. The communication inside of the docker container works as follows: the clients send the requests to the host. The server itself exposed the ports 80 and 443 for the clients, which are responsible for the http- and https-protocol. These open ports are linked to the exposed “Nginx”-container ports and incoming request from the clients are redirected to this load balancer. The load balancer handles all the requests and sends these to the corresponding containers inside the Docker environment. The clients do not have direct access to the other running services, since these containers have not exposed the ports to the host machine.  Requests URLs which have the “api”-string part in it will be redirected to the “NodeJS”-service (server container) while other not matching route will be redirected to the “Vue”-container (the frontend service).
 
 {{</section>}}
 
 {{<section title="Communication & Organisation">}}
 
 ## Discord
-We used this Platform as our number one communication tool and created our own server with multiple channels for organization and discussion. 
+We used this platform as our number one communication tool and created our own server with multiple channels for organisation and discussion. 
 
 ## Zoom
 Communication tool which we used for our weekly meetings.
@@ -39,11 +39,11 @@ GitHub allowed us to easily work together on the application by using the versio
 {{<section title="Frontend">}}
 ## VueJS
 
-We used VueJS as the fontend JavaScript Framework to seperate our Buisness Logic into Vue Components.Inside of the Vue Components we used the Composition API to make the code more readable for us. For navigation we used VueRouter. 
+We used VueJS as the frontend JavaScript Framework to seperate our Business Logic into Vue Components. Inside of the Vue Components we used the Composition API to make the code more readable for us. For navigation, we used VueRouter. 
 
 ## Pinia
 
-For Statemanagements inside the Vue Application we used Pinia as a more modern version of Vuex. 
+For State managements inside the Vue Application we used Pinia as a more modern version of Vuex. 
 
 ## TypeScript
 
@@ -59,17 +59,17 @@ We used Node.js in combination with ExpressJS as our server side JavaScript WebS
 
 ## TypeScript
 
-For the Backend we used TypeScript as our main programming language. 
+For the Backend, we used TypeScript as our main programming language. 
 
 ## MongoDB
 
-MongoDB is a JSON based database to persits data.
+MongoDB is a JSON based database to persit data.
 
 ## Redis
 
 Redis is used to save the session cookies for authorization, when the user logged in successful. 
 
-## nginx
+## Nginx
 
 Nginx is used as a web server and load balancer.
 
@@ -81,7 +81,7 @@ Flask is a micro web framework for python and was used to create our prediction 
 ## TensorFlow
 TensorFlow is an open source platform for machine learning and was used for training our models and to predict our images in the microservice.
 ## Google Collab
-Google colab is used for developing and running python code in the browser. They provide high-end hardware for efficient training of machine learning models on their server.
+Google collab is used for developing and running python code in the browser. They provide high-end hardware for efficient training of machine learning models on their server.
 {{</section>}}
 
 

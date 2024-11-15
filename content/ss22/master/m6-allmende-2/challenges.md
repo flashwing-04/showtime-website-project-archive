@@ -5,19 +5,19 @@ weight = 4
 
 {{<section title="Frontend">}}
 
-In the Frontend we had componets like the species selector which is a scrollable list of species. We wanted to create an accessible App with a modern user interface. To make the species selector accessible we used a hidden radio button in the background. We made sure that all our components to be accessible and semantically correct. Making all components accssible took us some time. In addition bringing the authentification to work was a more complex task then we first thought. Therefore we had to deal with CORS Error. 
+In the Frontend we had components like the species selector which is a scrollable list of species. We wanted to create an accessible App with a modern user interface. To make the species selector accessible, we used a hidden radio button in the background. We made sure that all our components to be accessible and semantically correct. Making all components accessible took us some time. In addition, bringing the authentification to work was a more complex task than we first thought. Therefore, we had to deal with CORS Error. 
 
 {{</section>}}
 
 {{<section title="Microservice architecture">}}
-At the beginning the development process of the backend went smoothly. Basic CRUD-operations were easily implemented with ease. 
-The whole system uses a microservice architecture and is not homogeneous anymore which is huge drawback for the developers since every service use another programming language and the developers must learn the languages of the services if one responsible person is missing. This architecture offers flexibility but orchestrating and maintaining the services add additional layers and complexities to the system.
+At the beginning, the development process of the backend went smoothly. Basic CRUD-operations were easily implemented with ease. 
+The whole system uses a microservice architecture and is not homogeneous anymore which is a huge drawback for the developers since every service use another programming language and the developers must learn the languages of the services if one responsible person is missing. This architecture offers flexibility but orchestrating and maintaining the services add additional layers and complexities to the system.
 
 {{</section>}}
 
 
 {{<section title="Proxy connection">}}
-One of the biggest challenges were the connection bridge between the server and the machine learning services which are responsible for giving accurate predictions of the submitted images. The system itself uses Docker for separating, communicating, and orchestrating the services. Understanding Docker networking first took some time, but in the end, the “Allmende”-team accomplish to build a connection between the server and prediction service.
+One of the biggest challenges were the connection bridge between the server and the machine learning services, which are responsible for giving accurate predictions of the submitted images. The system itself uses Docker for separating, communicating, and orchestrating the services. Understanding Docker networking first took some time, but in the end, the “Allmende”-team accomplish to build a connection between the server and prediction service.
 
 {{</section>}}
 
