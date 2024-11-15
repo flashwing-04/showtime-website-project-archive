@@ -16,9 +16,9 @@ supervisor = "Prof. Dr. Barne Kleinen"
 +++
 
 {{<section title="Our Goal">}}
-Since all of us have to apply for our elective courses, we found some **inconvenieces related to the interface and course distribution** we all could relate to.
+Since all of us have to apply for our elective courses, we found some **inconveniences related to the interface and course distribution** we all could relate to.
 
-Instead of clicking back and forth, struggling to find the right courses for yourself and losing your mind when they dont fit your time schedule at the end, we wanted to create a **simple interface with all the important information** at a glance. We thought there had to be a way to **prevent overfilled courses, while other students dont get the courses they desire the most**.
+Instead of clicking back and forth, struggling to find the right courses for yourself and losing your mind when they don't fit your time schedule at the end, we wanted to create a **simple interface with all the important information** at a glance. We thought there had to be a way to **prevent overfilled courses, while other students don't get the courses they desire the most**.
 {{</section>}}
 
 {{<section title="The Team">}}
