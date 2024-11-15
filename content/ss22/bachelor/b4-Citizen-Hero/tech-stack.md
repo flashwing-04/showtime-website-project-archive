@@ -13,7 +13,7 @@ Discord was our main communication tool for all of our discussions, questions, a
 
 ## Miro
 
-Miro was our online white board. We used it for our user story mapping.
+Miro was our online whiteboard. We used it for our user story mapping.
 
 ## Trello
 
@@ -49,7 +49,7 @@ Javascript library used for our frontend.
 
 ## MongoDB
 
-A document-oriented database program which we used for our backend.
+A document-oriented database program, which we used for our backend.
 
 ## Node.js
 
