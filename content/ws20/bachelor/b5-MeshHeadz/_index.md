@@ -40,6 +40,6 @@ After a short period of understanding, each of our five team members quickly fou
 * The **3D-Pipeline** team
  
 Since all groups communicated with each other on a regular basis, in the end, we always knew about each other’s issues and achievements and shared our expertise with the team.
-Eventually each team member became an expert in their respective field.
+Eventually, each team member became an expert in their respective field.
 {{</section >}}
 

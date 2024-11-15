@@ -9,9 +9,9 @@ weight = 2
 {{<image src="ourdesignthinkingprocess.png" alt="Design Thinking Process" caption="Design Thinking Process">}}
 
 {{<section title="First Steps">}}
-With a few ideas in mind we spent time researching to come up with potential technologies that best suit our goal and planned our next steps. 
+With a few ideas in mind, we spent time researching to come up with potential technologies that best suit our goal and planned our next steps. 
 
-After we had a general understanding of the needs of our potential users, we **defined the core problems** that we identified up to the point. With this in mind we **collected as many ideas as possible, evaluated them and started prioritizing**.
+After we had a general understanding of the needs of our potential users, we **defined the core problems** that we identified up to the point. With this in mind, we **collected as many ideas as possible, evaluated them and started prioritizing**.
 {{</section>}}
 
 {{<section title="Prototyping">}}
@@ -22,7 +22,7 @@ Before we started the development, we created multiple mockups and prototypes un
 
 
 {{<section title="Improvements">}}
-In order to build a user friendly app we performed multiple **usability tests**.
+In order to build a user friendly app, we performed multiple **usability tests**.
 The resulting feedback was then incorporated into the development process to constantly improve our prototypes.
 {{</section>}}
 

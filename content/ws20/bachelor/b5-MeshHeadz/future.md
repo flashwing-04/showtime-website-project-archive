@@ -9,7 +9,7 @@ As it often happens while working on a project, the more time passes, the more i
 {{</section>}}
 {{<section title="Short-term Goals">}}
 
-In general we think that with more time to develop, we would have become more experienced and therefore more confident in writing efficient code, what would result in our application being faster and the user experience being better.
+In general, we think that with more time to develop, we would have become more experienced and therefore more confident in writing efficient code, which would result in our application being faster and the user experience being better.
 <br/>
 
 Ideas we came up with were for example to include features that show to our users in a more transparent way what happens in our backend:
