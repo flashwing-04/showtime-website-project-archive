@@ -17,15 +17,15 @@ supervisor = "Mike Kaden, Tobias Friedrich"
 
 {{<section title="Our Goal">}}
 
-The number of natural and man-made accidents and disasters worldwide are on the rise. They often come unexpected and affect more and more people.
-With **hereiam** we want to make it possible to gather all important and **life-saving** information during large-scale incidents **in one app**. Additionally, we wanted to make it as easy to navigate and use as possible to support resuce teams to stay on top of things - no matter how chaotic the event may be.
+The number of natural and man-made accidents and disasters worldwide is on the rise. They often come unexpectedly and affect more and more people.
+With **hereiam** we want to make it possible to gather all important and **life-saving** information during large-scale incidents **in one app**. Additionally, we wanted to make it as easy to navigate and use as possible to support rescue teams to stay on top of things - no matter how chaotic the event may be.
 
 **Our vision: saving more lives.**
 {{</section>}}
 
 {{<section title="The Team">}}
 Our Team consists of five students and our supervisor and client.
-As each one of us has different strengths and interests we decided to split up into smaller teams to use them in the most efficient way. In case of arising problems, we worked together as a team to find solutions.
+As each one of us has different strengths and interests, we decided to split up into smaller teams to use them in the most efficient way. In case of arising problems, we worked together as a team to find solutions.
 - **UX/UI:** Artus
 - **Frontend:** Robin, Ruth
 - **Backend:** Thuong, Maximilian
