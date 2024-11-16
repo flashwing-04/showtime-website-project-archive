@@ -22,7 +22,7 @@ The field of regeneration research and performance diagnostics has started inves
 
 
 {{<section title="Where does Athletimize come in?">}}
-Athletimize offers daily assessment questionnaires as well as session-specific assessments that allow athletic staff to analyze an individual athlete’s performance in a more faceted approach. A team’s management and training staff can track performance data over time, follow the team’s athletic development and investigate change with the help of the individual and team reports.
+Athletimize offers daily assessment questionnaires as well as session-specific assessments that allow athletic staff to analyze an individual athlete’s performance in a more faceted approach. A team’s management and training staff can track performance data over time, follow the team’s athletic development and investigate change with the help of individual and team reports.
 {{</section >}}
 
 <div class="mediathek-embed">
@@ -44,5 +44,5 @@ Victoria Berlin provided input regarding potential planning and session features
 Our Web App is responsive, so you can try it out on your preferred device. Just follow [this link](https://dev.pluto.ac0.de/) to explore the app.
 
 **Access**\
-In order to properly use the app, you need to log in. Please get in touch with one of use to receive test data.
+In order to properly use the app, you need to log in. Please get in touch with one of us to receive test data.
 {{</section>}}

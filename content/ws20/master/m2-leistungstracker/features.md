@@ -7,8 +7,8 @@ Athletimize facilitates training planning and management by including holistic d
 
 {{<section title="Assessments">}}
 We have two types of assessments:
-* Daily assessments are answered everyday in the morning. The questions range from the athlete's state of mind to their body condition
-* Session assessments are answered right after a training or match has taken place.
+* Daily assessments are answered every day in the morning. The questions range from the athlete's state of mind to their body condition
+* Sessions assessments are answered right after a training or match has taken place.
 The athletes give their personal view about the intensity of the session and provide the time that they were involved.
 
 The assessments are typically answered on the phone, so we focused on making these very easy to use.
@@ -22,7 +22,7 @@ This allowed us to capture the heartbeat from a coupled device (we tested with a
 
 The reports area is built for the coach. It provides a quick overview of the status of the players with the overall score of the team at a selected date.
 The score and all other metrics were developed by the University of Bern.
-The coach can also dive in to see more detailed statistics by selecting a specific metric or explore the detailed status of a specific athlete.
+The coach can also dive in to see more detailed statistics by selecting a specific metric or exploring the detailed status of a specific athlete.
 {{</section>}}
 {{<image src="reports.png" alt="Team Reports" caption="Team Reports">}}
 
@@ -36,7 +36,7 @@ We are planning to take this to the next level by adding a fancy planning tool f
 
 {{<section title="Team Management">}}
 Club staff have their own area where they can manage the team.
-Athletimize supports multiple teams per instance where each team has different members with different roles.
+Athletimize supports multiple teams per instance, where each team has different members with different roles.
 
 {{</section>}}
 {{<image src="teams.png" alt="Team Area" caption="Team Area">}}
