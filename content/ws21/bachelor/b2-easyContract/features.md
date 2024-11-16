@@ -8,11 +8,11 @@ weight = 1
 {{<section title="Contract generator">}}
 Our main feature is the **contract generator**, which sets the **framework** for the contract creation process. 
 This enables StartRight to access a database of contract modules more **quickly** and to create the **suitable** contract for each customer.\
-At first the **legal form** for a new contract should be selected. 
-After that the user can see **text blocks**, matching the selected legal form. 
-These text blocks can then be **inserted** into a ready-made **text field** using **drag & drop** function. \
+At first, the **legal form** for a new contract should be selected. 
+After that, the user can see **text blocks**, matching the selected legal form. 
+These text blocks can then be **inserted** into a ready-made **text field** using the **drag & drop** function. \
 There is also a possibility to **search** through the blocks, **add** new ones, **edit** or **delete** them. 
-Finally the contract can be **downloaded** as **txt.** or **docx.** file format.
+Finally, the contract can be **downloaded** as **txt.** or **docx.** file format.
 {{</section>}}
 
 {{<section title="Project overview">}}
@@ -22,7 +22,7 @@ These can be called up by the **associated participants** and lead the user to a
 {{</section>}}
 
 {{<section title="Wiki">}}
-The **Wiki** area works the similar way as the link collection.
+The **Wiki** area works the same way as the link collection.
 Various **working instructions** for **StartRight employees** can be found here and **filtered** by respective category.
 {{</section>}}
 

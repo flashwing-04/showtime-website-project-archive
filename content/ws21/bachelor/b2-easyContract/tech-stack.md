@@ -9,12 +9,12 @@ We used GitLab as our **Git** hosting platform to have an **overview** of our co
 {{</section>}}
 
 {{<section title="Node.js">}}
-With an open source **server** environment Node.js we have provided the **basis** for our platform, as it provides a **script structure** for websites.
+With an open-source **server** environment Node.js we have provided the **basis** for our platform, as it provides a **script structure** for websites.
 {{</section>}}
 
 {{<section title="express">}}
 As an extension of Node.js, Express serves us as a lightweight **web framework** that can handle all requests from the entire application.
-The template's **reusable** code made it easy for us to work with view, since it represents a **middlewear** to the requests.
+The template's **reusable** code made it easy for us to work with View, since it represents a **middleware** to the requests.
 {{</section>}}
 
 {{<section title="MongoDB">}}

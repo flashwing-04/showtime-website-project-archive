@@ -25,7 +25,7 @@ With **easyContract**, we want to transform the workflow into a **consistent pro
 {{</section>}}
 
 {{<section title="Our Partner">}}
-**Start Right** is a student advising team based in **Munich**, which makes an important contribution by offering legal advice to **non-profit social projects**. Start Right put their **student expertise** at the service of the community and at the same time gain **valuable experience** under the guidance of **competent experts** from legal practice.
+**Start Right** is a student advising team based in **Munich**, that makes an important contribution by offering legal advice to **non-profit social projects**. Start Right puts their **student expertise** at the service of the community and, at the same time, gains **valuable experience** under the guidance of **competent experts** from legal practice.
 {{</section>}}
 
 {{<section title="The Team">}}
