@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{<section title="Interactive Learning Content">}}
-Intu incorporates interactive learning objects, providing users with the opportunity to actively engage with the content. This includes an animated, exploratory diagram that offers a guided view while also supporting full user control. In addition a practical implementation of the MVC Pattern enables students to better understand and explore relationships within the content. To ensure understanding and retention, Intu also features practical tasks for users to apply and test their newly acquired knowledge. In general Intu embodies a learning platform that purposefully uses interactive elements to maintain the learners attention.
+Intu incorporates interactive learning objects, providing users with the opportunity to actively engage with the content. This includes an animated, exploratory diagram that offers a guided view while also supporting full user control. In addition, a practical implementation of the MVC Pattern enables students to better understand and explore relationships within the content. To ensure understanding and retention, Intu also features practical tasks for users to apply and test their newly acquired knowledge. In general, Intu embodies a learning platform that purposefully uses interactive elements to maintain the learner's attention.
 
 {{</section>}}
 {{<mediathek id="5f19ea860f6a255d872152d7fd578551" title="Video: Showcase of Interactive Example">}}
@@ -18,7 +18,7 @@ By providing multiple ways of interacting with the content, Intu gives students 
 
 {{<section title="Knowledge Base">}}
 During a learning process, students often piece together their own ideas and thoughts.
-That's why Intu provides a built-in, central space, called the knowledge base, for creating and managing notes from different learning units
+That's why Intu provides a built-in, central space, called the knowledge base, for creating and managing notes from different learning units.
 
 The user-centric design gives students the flexibility to personalize their notes. A key feature is the ability to import existing learning objects directly into the knowledge base. This integrated system allows for seamless transitions between knowledge base and learning units. The bidirectional design fosters sustainable learning, thereby creating a uniquely individualized learning journey.
 

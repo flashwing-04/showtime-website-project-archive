@@ -6,10 +6,10 @@ weight = 2
 {{<section title="Requirements Analysis">}}
 During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than **70** ideas and requirements that we considered interesting and worthy to explore.
 During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches.
-Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus. We aimed to identify the most crucial features and functionalities for our application. Three ideas and requirements were especially important to us: interactivity, individuality and knowledge management. To ensure our application aligns with best practices and to find inspiration, we conducted extensive research on existing learning platforms and their approach to interactive tutorials. This allowed us to gain insights into the latest methodologies and techniques used in current learning applications.
+Following the brainstorming phase, we conducted several iterations of prioritization, which helped us narrow down our focus. We aimed to identify the most crucial features and functionalities for our application. Three ideas and requirements were especially important to us: interactivity, individuality and knowledge management. To ensure our application aligns with best practices and to find inspiration, we conducted extensive research on existing learning platforms and their approach to interactive tutorials. This allowed us to gain insights into the latest methodologies and techniques used in current learning applications.
 {{</section>}}
 
-{{<image src="Miro.png" caption="Excerpt of rquirement analysis in Miro" alt="Excerpt of rquirement analysis in Miro">}}
+{{<image src="Miro.png" caption="Excerpt of requirement analysis in Miro" alt="Excerpt of rquirement analysis in Miro">}}
 
 {{<section title="Concept">}}
 To avoid aimless brainstorming, we decided in advance to map our concept to a specific course, while still keeping in mind that certain functionality and components should be reusable for the implementation of additional learning content. We were certain that we wanted to use a genuine IMI-course, and after much consideration, we opted for _"M1 - Media Programming"_. The importance of this course and its aim to bring all students to the same level in the fields of Visual Computing, Web Development, and Game Technology were compelling reasons. Additionally, many of us had already taken this course, providing us with essential knowledge for our further concept.
@@ -20,7 +20,7 @@ Next, we held multiple brainstorming sessions to generate potential ideas for in
 {{<image src="Scribbles.png" caption="Some Scribbles developed during the concept phase" alt="Some Scribbles developed during the conception phase">}}
 
 {{<section title="Design">}}
-Following the completion of our concept, we moved onto the design process. First of all wireframes were created to define the feature set more concretely and establish a solid foundation for the high-fidelity prototype, that was then developed using **Figma**.
+Following the completion of our concept, we moved onto the design process. First of all, wireframes were created to define the feature set more concretely and establish a solid foundation for the high-fidelity prototype, that was then developed using **Figma**.
 
 In digital learning environments, UI and UX design contribute significantly to the user experience, but also to the user's learning experience and outcome. Therefore, a clear course design with unambiguous symbols, labels and user guidance was also essential in the design of Intu. The primary goal was therefore to create an appealing and purposeful user interface that motivates and delights users while maintaining a strong focus on the main learning content. This balance was vital to ensure an engaging yet effective learning environment for our users. The entire design of Intu is thus based on a friendly color composition, a clean and well-structured layout, lightweight components and in general an unobtrusive interface design.
 

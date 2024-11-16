@@ -14,7 +14,7 @@ draft = false
 {{<image src="Intu-header.png" alt="Mockup image for intu">}}
 
 {{<section title="Our Goal">}}
-Learning is not a one-size-fits-all process: it's a dynamic and unique journey that varies immensely from person to person. Some students may thrive in an auditory learning environment, where they can passively listen to explanations. Others may find their learning potential amplified when they're reading text or exploring concepts on their own and becoming fully engaged in the learning process. Still, most succeed best with a combination of different methods, blending various learning preferences to create an approach that's uniquely their own. Recognizing these preferences not only results in a faster and better comprehension of the learning content but also keeps students motivated.That’s why intu’s primary goal is to cater to students’ diverse learning preferences.
+Learning is not a one-size-fits-all process: it's a dynamic and unique journey that varies immensely from person to person. Some students may thrive in an auditory learning environment, where they can passively listen to explanations. Others may find their learning potential amplified when they're reading text or exploring concepts on their own and becoming fully engaged in the learning process. Still, most succeed best with a combination of different methods, blending various learning preferences to create an approach that's uniquely their own. Recognizing these preferences not only results in a faster and better comprehension of the learning content but also keeps students motivated. That’s why intu’s primary goal is to cater to students’ diverse learning preferences.
 
 {{</section>}}
 
@@ -24,7 +24,7 @@ In order to actively engage students in their learning journey, intu focuses on 
 Content must be carefully curated, focusing on didactical enhancement and a clear and comprehensive structure to improve the students' learning experience.
  A well-designed curriculum, with a balance of theory and practical application, enables students to connect new knowledge with existing understanding, facilitates a deeper understanding of the subject matter, and fosters critical thinking.
 
-Finally, intu acknowledges the importance of reflection and personal understanding in learning. That’s why it’s important to allow students to note their explanations and connecting thoughts without interrupting the learning process,stimulating a deeper understanding of the learning material.
+Finally, intu acknowledges the importance of reflection and personal understanding in learning. That’s why it’s important to allow students to note their explanations and connecting thoughts without interrupting the learning process, stimulating a deeper understanding of the learning material.
 {{</section>}} 
 
 {{<section title="The Team">}}
