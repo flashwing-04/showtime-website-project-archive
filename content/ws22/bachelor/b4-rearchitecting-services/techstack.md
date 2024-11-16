@@ -10,7 +10,7 @@ We used Notion, Miro and Microsoft Teams for project management and communicatio
 
 ## Development
 
-TypeScript was used as the programming language, executed on Node.js
+TypeScript was used as the programming language, executed on Node.js.
 We also used the AWS Cloud Development Kit (AWS CDK) as a software development framework to define the cloud infrastructure as code and deploy it through AWS CloudFormation. We used GitHub for code hosting and code version control, where we also set up GitHub Actions to automate building, testing, and deployment to AWS.
 {{<image src="dev.png">}}
 
@@ -19,7 +19,7 @@ Amazon Web Services (AWS) that we used to build our infrastructure:
 - API Gateway to get and process a large number of simultaneous API requests and to expose the Lambda endpoint to the internet
 - Lambda to run code serverless only on demand and only to the required extent.
 - S3 to store input traffic
-- SQS to to store transformed input data pending further processing.
+- SQS to store transformed input data pending further processing.
 {{<image src="aws.png">}}
 
 
