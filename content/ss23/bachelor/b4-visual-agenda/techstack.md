@@ -7,7 +7,7 @@ weight = 1
 
 **Communication**
 
-For the purpose of communicating with each other we used 
+For the purpose of communicating with each other, we used 
 + Zoom
 + Teams 
 + and WhatsApp.
@@ -20,7 +20,7 @@ Drafting our ideas and creating anything related to the design we used
 
 **Frontend**
 
-Our Frontend was made with
+Our frontend was made with
 + Ionic 
 + React
 + Capacitor
@@ -49,7 +49,7 @@ Seamlessly integrate Visual Agenda with users' personal calendars, creating auto
 
 **Cross-Device Accessibility:**
  
-Users can access their meeting plans and discussions seamlessly from any device. A unified experience across platforms will enable to stay connected, collaborate on-the-go, and drive productivity from anywhere.
+Users can access their meeting plans and discussions seamlessly from any device. A unified experience across platforms will enable users to stay connected, collaborate on-the-go, and drive productivity from anywhere.
 
 {{</section>}}
 

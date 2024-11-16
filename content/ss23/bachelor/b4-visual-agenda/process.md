@@ -14,7 +14,7 @@ For our process we had two primary phases: the conception phase and the developm
 
 {{<section title="Conception">}}
 
-In the early stages, our team focused on brainstorming and sketching out ideas for Visual Agenda. We carefully crafted wireframes that outlined the app's structure and functionality, ensuring a clear and intuitive user experience. Through multiple rounds of feedback and refinement, we went along created a design for our app.
+In the early stages, our team focused on brainstorming and sketching out ideas for Visual Agenda. We carefully crafted wireframes that outlined the app's structure and functionality, ensuring a clear and intuitive user experience. Through multiple rounds of feedback and refinement, we went along and created a design for our app.
 
 {{<image src="Moodboard.png" alt="Moodboard" caption="Moodboard">}}
 {{<image src="Frontend.png" alt="Frontend" caption="Frontend">}}
