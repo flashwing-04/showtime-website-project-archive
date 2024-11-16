@@ -63,7 +63,7 @@ For the Backend, we used TypeScript as our main programming language.
 
 ## MongoDB
 
-MongoDB is a JSON based database to persit data.
+MongoDB is a JSON based database to persist data.
 
 ## Redis
 
