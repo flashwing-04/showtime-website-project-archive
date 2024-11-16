@@ -20,8 +20,8 @@ Wir bitten daher in Absprache mit Prof. Kleinen darum, die von uns für die Show
 {{</ infobox >}}
 
 {{<section title="Hintergrund">}}
-Chronische Erkrankungen betreffen heutzutage nicht mehr nur alte Menschen, sondern vermehrt auch Kinder und Jugendliche. Gerade Krebs stellt eine Diagnose dar, mit der bereits junge Menschen zurecht kommen müssen.
-Die deutsche Kinderkrebsstiftung hat zu ihrer Unterstützung das bewährte Konzept der Mutperlenkette entwickelt. Zu Beginn ihrer Krebstherapie erhalten die Kinder und Jugendlichen eine Mutperlenkette, zu der für jede Behandlung oder Untersuchung eine Perle hinzu kommt. Die Mutperlen bieten den Patient*innen so eine gute Möglichkeit für die bewusste Auseinandersetzung mit ihrer Krankheit.
+Chronische Erkrankungen betreffen heutzutage nicht mehr nur alte Menschen, sondern vermehrt auch Kinder und Jugendliche. Gerade Krebs stellt eine Diagnose dar, mit der bereits junge Menschen zurechtkommen müssen.
+Die deutsche Kinderkrebsstiftung hat zu ihrer Unterstützung das bewährte Konzept der Mutperlenkette entwickelt. Zu Beginn ihrer Krebstherapie erhalten die Kinder und Jugendlichen eine Mutperlenkette, zu der für jede Behandlung oder Untersuchung eine Perle hinzukommt. Die Mutperlen bieten den Patient*innen so eine gute Möglichkeit für die bewusste Auseinandersetzung mit ihrer Krankheit.
 Jugendliche können sich zwar für das Konzept der Mutperlenkette begeistern, nicht aber für die Kette selbst. Sie ist ihnen oft zu kindisch.
 Daher wird in einem gemeinsamen Projekt mit der FU Berlin und der Charité derzeit dazu geforscht, wie Jugendliche mit einer chronischen Erkrankung, zunächst speziell mit einer Krebserkrankung, durch digitale Anwendungen im Umgang mit ihrer Erkrankung unterstützt werden können und ob durch den Einsatz solcher Anwendungen eine Verbesserung der Krankheitsbewältigung erzielt werden kann.
 {{</section>}}
