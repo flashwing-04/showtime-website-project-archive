@@ -22,13 +22,13 @@ One of the biggest challenges was wrapping our heads around using an AI API as a
 
 Another challenge was the import and preparation of factually correct fine-tuning **training data**, **data transformation**, as well as ensuring JSON compatibility on various ends. **Importing documents** to be used as another source of knowledge (besides the AI's knowledge) also meant that we had to find a way of information extraction. We managed to do this by having OpenAI clean up our text, taking out redundant or irrelevant information like page numbers, and then apply our formatting before embedding for **semantic search**. Prompt engineering played a big role in this.
 
-We also continualy **refined the UI** to make the application more usable overall.
+We also continually **refined the UI** to make the application more usable overall.
 Our result is an easy-to-use Question Generator, with advanced features like the capability of user-supplied knowledge and a custom model specifically made for question generation, ensuring an improved question output.
 
 {{</section>}} 
 
 {{<section title="✅ Project Results">}}
 
-We realized the main requirements of the project tender and contributed our own features and ideas in the process. At the same time we were always in communication with Mobile Learning Labs to create a **common vision**. Etensive **documentation** was provided, which can be used by the customers of Mobile Learning Labs.
+We realized the main requirements of the project tender and contributed our own features and ideas in the process. At the same time, we were always in communication with Mobile Learning Labs to create a **common vision**. Extensive **documentation** was provided, which can be used by the customers of Mobile Learning Labs.
 
 {{</section>}} 

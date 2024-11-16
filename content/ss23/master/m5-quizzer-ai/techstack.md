@@ -15,7 +15,7 @@ For the generation of quiz questions, we use the OpenAI API and utilize its powe
 
 {{<section title="✨ Miscellaneous">}}
 {{<image src="techstack_misc.png" alt="Miscellaneous" >}}
-Since the development environment was already available, we followed these guidelines and used **Andriod Studio**, which is perfectly suited for the development of Flutter. Also **BitBucket** was already predefined. This was a small challenge, since the experience was limited to GitHub and GitLab. **Trello** was helpful in distributing tasks and making it easier to keep track of the project's progress.
+Since the development environment was already available, we followed these guidelines and used **Android Studio**, which is perfectly suited for the development of Flutter. Also **BitBucket** was already predefined. This was a small challenge, since the experience was limited to GitHub and GitLab. **Trello** was helpful in distributing tasks and making it easier to keep track of the project's progress.
 {{</section>}}
 
 
