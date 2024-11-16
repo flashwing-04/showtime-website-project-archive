@@ -7,20 +7,19 @@ weight = 1
 
 ## Home screen
 
-One of the core features of the App is the map where users can see their position and all the available points of interest (POI) are indicated with markers. The markers are shown in different colors acoording to the category of the POI. Categories are used to group POI by similar histories. Clicking on a marker will navigate to the detail view of that POI.
+One of the core features of the App is the map, where users can see their position and all the available points of interest (POI) are indicated with markers. The markers are shown in different colors according  to the category of the POI. Categories are used to group POI by similar histories. Clicking on a marker will navigate to the detail view of that POI.
 
-Underneath the Map is a modal with a list of all the available POI. For each place it shows the name, address, distance and available media. If users are searching for a particular place they can use the search input to find it. Selecting a place also opens the detail view.
+Underneath the Map is a modal with a list of all the available POI. For each place it shows the name, address, distance and available media. If users are searching for a particular place, they can use the search input to find it. Selecting a place also opens the detail view.
 {{<image src="app-home.gif" alt="app home screen" caption="Home Screen">}}
 
 ## Detailed information about a place
 
-The detail view of a POI shows all the available information and media about the place. At the top it shows the name, an image, the address and the address description. Below that is a text description, audio and a gallery of all the images if alvailable.
-At the top users can save their favourite places by marking them with a star. They can also share places with friends via the native share feature.
+The detail view of a POI shows all the available information and media about the place. At the top it shows the name, an image, the address and the address description. Below that is a text description, audio and a gallery of all the images if available. At the top, users can save their favourite places by marking them with a star. They can also share places with friends via the native share feature.
 {{<image src="app-detail.gif" alt="app detail" caption="Detail View">}}
 
 ## Notifications based on Geolocation
 
-While the app is running in the background it accesses the location of the user to send a local notification to them when they are close to a POI. Clicking the notification will open the app and show the detail view of that POI. The app will only send one notification per POI in a session.
+While the app is running in the background, it accesses the location of the user to send a local notification to them when they are close to a POI. Clicking the notification will open the app and show the detail view of that POI. The app will only send one notification per POI in a session.
 
 In Android the app will show a notification for the whole time it is running in the background. In iOS the geolocation access is indicated while the app is running in the foreground and background.
 
@@ -31,7 +30,7 @@ Via the menu button on the Home screen users can filter POI. They can be filtere
 
 ## Settings
 
-The settings, which are also accessed via the menu button, allow users to turn notifications on or off. To filter notifications they can choose to only turn on notifications for certain categories. It is also possible to change the language in the settings.
+The settings, which are also accessed via the menu button, allow users to turn notifications on or off. To filter notifications, they can choose to only turn on notifications for certain categories. It is also possible to change the language in the settings.
 {{<image src="app-settings.gif" alt="app settings" caption="Settings">}}
 
 
@@ -59,7 +58,7 @@ The home screen of the Editor shows the map with the pinned locations on the rig
 
 {{<image src="editor-filter.png" alt="editor filter" caption="Home screen with Filterfunction">}}
 ## Create POI by category
-Each editor can create categories with a specific color in which they later can assign POI to (e.g Queerwalk, forced labor in Berlin, etc). The POI contain an address, an address description, a description and assets (for now audio and images). The address can be typed in or set by clicking on a location on the map.
+Each editor can create categories with a specific color in which they later can assign POI to (e.g. Queerwalk, forced labor in Berlin, etc). The POI contain an address, an address description, a description and assets (for now audio and images). The address can be typed in or set by clicking on a location on the map.
 
 {{<image src="editor-create.png" alt="editor create" caption="Creating a new poi">}}
 

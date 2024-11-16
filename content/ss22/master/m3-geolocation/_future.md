@@ -10,7 +10,7 @@ The next step for our project is to contact more institutions who want to cooper
 As some of the topics present in this app include sensitive content, we want to add the possibility to flag content with trigger warnings, to make sure that everybody can enjoy this app.
 
 ## Partner information
-The app depends on great organizations to prepare and edit the content,so we want to add screens that show more informaiton about the organizations and the project context their content originated from, to give additional credit and thanks and also give users the opportunity to interact with them.
+The app depends on great organizations to prepare and edit the content, so we want to add screens that show more information about the organizations and the project context their content originated from, to give additional credit and thanks and also give users the opportunity to interact with them.
 {{</section>}}
 
 {{<section title="App">}}
@@ -24,11 +24,11 @@ Another feature to improve the user experience is to provide offline functionali
 We would like to expand the possibilities of uploading data for a POI, starting with different kinds of text assets and also adding videos.
 
 ## Dynamic imports
-Furtheremore it would be great to add import options to add POI from Excel Sheets for example. This would make the initial creation process of the POI easier and quicker and allow the institutions to add more of their information to the app.
+Furthermore, it would be great to add import options to add POI from Excel Sheets for example. This would make the initial creation process of the POI easier and quicker and allow the institutions to add more of their information to the app.
 
 ## Editing mode / publishing POI selectively
 We would like to provide editors with an editing mode, that lets them work on a collection of POI over some time, without making them visible in the app just yet.
 
 ## Toggle to see POI from other organizations
-Currently editors can only see the points that were added by their own institution for better usability. We would like to add a toggle option, that would additionally show all other POI by other institutions. This could come in handy, to check if a POI from another organization already exists in a specific location, when adding a new point.
+Currently, editors can only see the points that were added by their own institution for better usability. We would like to add a toggle option, that would additionally show all other POI by other institutions. This could come in handy, to check if a POI from another organization already exists in a specific location, when adding a new point.
 {{</section>}}
