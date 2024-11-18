@@ -5,7 +5,7 @@ weight = 4
 
 {{<section title="So, what's next?">}}
 
-We want to make the App easy to use and adjustable. Our plan is to make an all in one app, so that Artists can use it for their own shows, adjust it to their needs and can help to improve it via open source and modding options.
+We want to make the App easy to use and adjustable. Our plan is to make an all in one app, so that artists can use it for their own shows, adjust it to their needs and can help to improve it via open source and modding options.
 {{</section>}}
 
 

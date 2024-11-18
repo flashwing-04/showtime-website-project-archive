@@ -22,7 +22,7 @@ supervisor = "Alexander Kramer, Ralf Strecker"
 {{</gallery>}}
 
 {{<section title="Our Goal">}}
-The goal of this project is to create an interactive stage show in which the audience can actively participate to create a deeper connection to the overall concert experience. For this purpose, the audience will submit various drawings for the individual songs in the run-up to the concert. These will then be transformed into an animation showed on the stage design together with the live input of the band. 
+The goal of this project is to create an interactive stage show in which the audience can actively participate to create a deeper connection to the overall concert experience. For this purpose, the audience will submit various drawings for the individual songs in the run-up to the concert. These will then be transformed into an animation shown on the stage design together with the live input of the band. 
 {{</section>}}
 
 
