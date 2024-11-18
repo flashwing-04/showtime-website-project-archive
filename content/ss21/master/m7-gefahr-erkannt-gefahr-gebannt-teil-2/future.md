@@ -5,7 +5,7 @@ weight = 4
 
 {{<section title="Thoughts">}}
 
-The cutting edge we have been working on emcompases a number of exciting areas that offer room for expansion. 
+The cutting edge we have been working on emcompasses a number of exciting areas that offer room for expansion. 
 
 
 Gamification
@@ -87,6 +87,6 @@ Group setting as an additional extrinsic motivation factor vs. the current singl
 - What differences with metal workers with varying experience must be considered? Can the delivery of fresh lessons for trainees be combined with a refresher for those already experienced in the workshop?
 
 
-Next steps are already planned: a follow up test session at the HTW workshop to further prove or disprove our current results. Additionally the Berliner Stadtreinigungsbetriebe (BSR) expressed their interest to try out our application.
+Next steps are already planned: a follow up test session at the HTW workshop to further prove or disprove our current results. Additionally, the Berliner Stadtreinigungsbetriebe (BSR) expressed their interest to try out our application.
 
 {{</section>}}

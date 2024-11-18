@@ -55,11 +55,11 @@ On the other side, Marvin once again deployed his modeling and rigging skills wh
 {{</section >}}
 
 {{<gallery>}}
-	{{<team-member image="adrian.jpg" name="Adrian Sabrowski">}}
-	{{<team-member image="marvin.jpg" name="Marvin Kullick">}}
-	{{<team-member image="julian.png" name="Julian Bechthold">}}
-	{{<team-member image="konrad.jpg" name="Konrad Ukens">}}
-	{{<team-member image="robin.jpg" name="Robin Wegner-Repke">}}
+{{<team-member image="adrian.jpg" name="Adrian Sabrowski">}}
+{{<team-member image="marvin.jpg" name="Marvin Kullick">}}
+{{<team-member image="julian.png" name="Julian Bechthold">}}
+{{<team-member image="konrad.jpg" name="Konrad Ukens">}}
+{{<team-member image="robin.jpg" name="Robin Wegner-Repke">}}
 {{</gallery>}}
 
 {{<image src="team.jpg" alt="group photo" caption="Group photo with our supervisor Tamara after the user test at the AVT">}}

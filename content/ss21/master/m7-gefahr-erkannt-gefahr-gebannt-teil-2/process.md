@@ -50,7 +50,7 @@ Our focus on BOI later shifted to the more narrowly defined and more applicable 
 a term used to describe the effects of VR self-avatars on its users ([Avatar Embodiment. A Standardized Questionnaire](https://www.researchgate.net/publication/349168590_Avatar_Embodiment_A_Standardized_Questionnaire)).
 
 
-Regarding the injury depiction we chose to maintain what we had already made. According to feedback towards the visual level of detail we have found a balanced point in between a tolerable and a visually impressive experience.
+Regarding the injury depiction, we chose to maintain what we had already made. According to feedback towards the visual level of detail, we have found a balanced point in between a tolerable and a visually impressive experience.
 
 {{</section>}}
 
@@ -64,7 +64,7 @@ Prototyping and First Round Testing
 Given the opportunity to work with two industry partners and that our test group from the first project would only be available late in the semester, we designed our process with two test iterations. 
 
 Based on our selection of new elements to incorporate (see [Features](../features)), we rapidly prototyped proof-of-concept versions to be able to test and evaluate these in user tests at the [Berufsfortbildungswerk (bfw) Berlin](https://www.bfw.de/berlin/das-bfw-in-berlin-technische-berufe/) 
-vocational training center. This first test round was planned as a proving ground for the developed distractions as well as a general interaction test (due to the bfw trainees not knowing the application). 
+vocational training center. This first test round was planned as a proving ground for the developed distractions, as well as a general interaction test (due to the bfw trainees not knowing the application). 
 Five potential users tried out our simulation and participated in interviews.
 
 
@@ -91,12 +91,12 @@ Final Test
 
 The second test run was done at the [Ausbildungsverbund Teltow e.V. (AVT)](https://www.avt-bildung.de/) vocational training center. 
 We were able to conduct 11 user tests and collect questionnaire input from 8 testers. 
-Unfortunately, contrary to previous planning, only one of them was familiar with our first semester project so that we were not able to largely compare the previous experience to the improved version. 
+Unfortunately, contrary to previous planning, only one of them was familiar with our first semester project, so that we were not able to largely compare the previous experience to the improved version. 
 Furthermore, we rarely witnessed  distraction induced injuries. For a more detailed discussion of these findings please see the section 'Results and Discussion' below. 
 
 Nonetheless, we could collect lots of data and test with the trainers who were familiar with the project. 
 Next to some points for improvement (largely regarding the user avatar, arguably the most sophisticated expansion of our original product) we received praise for almost all of the improvements we had made. 
-The built in elements of time and performance pressure as well as our selection of distractions were again confirmed to be typical of the workshop environment and leading causes of injury.
+The built in elements of time and performance pressure, as well as our selection of distractions, were again confirmed to be typical of the workshop environment and leading causes of injury.
 
 
 {{<image src="avt_user_test.png" alt="avt user test" caption="Second user test at the AVT">}}
@@ -107,7 +107,7 @@ Aftermath
 ---
 
 
-Of course our final user-base test highlighted more areas of improvement, both through tester comments and developer observations. 
+Of course, our final user-base test highlighted more areas of improvement, both through tester comments and developer observations. 
 In the last weeks before the showtime event, our development team has been pushing hard to implement this new feedback, leading to plenty of quality of life improvements being added to the experience,
 as well as new features like an ingame avatar selection and real time marking of textures.
 
@@ -125,8 +125,8 @@ Despite repeated reminders to the participants that we were in no way testing th
 Adding to this, in a later interview one of the trainers expressed their thoughts, saying that especially the newer trainees are conditioned to pay extra attention to a safe workflow, a behaviour which may have been transferred to our VR simulation. 
 When we tested with two users outside of our test pool who were familiar with the team and the project, we observed stronger responses to our distractions. 
 
-Perhaps the most important factor to mention is that one time use, and a single test is insufficient for the kind of product we tried to develop. 
-Generally, anyone experiencing something for the first time will have a heightened awareness and attention, whereas carelessness, and the vulnerability to becoming distracted is an emergent, long-term state of mind - difficult to emulate in a single,
+Perhaps the most important factor to mention is that one time use, and a single test are insufficient for the kind of product we tried to develop. 
+Generally, anyone experiencing something for the first time will have a heightened awareness and attention, whereas carelessness, and the vulnerability to becoming distracted are an emergent, long-term state of mind - difficult to emulate in a single,
 20 minute test time frame.
 
 In any case, the project's future must be explored through further testing to gain statistically significant and thus reliable insights. 

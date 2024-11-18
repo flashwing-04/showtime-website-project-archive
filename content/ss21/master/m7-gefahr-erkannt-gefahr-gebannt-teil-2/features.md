@@ -7,14 +7,14 @@ weight = 1
 
 {{<section title="What's new?" >}}
 	
-While preparing for the showtime we remembered the quote above from the devs at Firaxis, called _Sid Meier's 33/33/33 rule of sequel design_. 
+While preparing for the showtime, we remembered the quote above from the devs at Firaxis, called _Sid Meier's 33/33/33 rule of sequel design_. 
 Although we didn't stick to it 100%, we think it provides a great way for us to comprehensively break down which parts of our application changed since our previous version.
 
 {{</section>}}
 
 {{<section title="The existing 33%" >}}
 
-In last semester's user test we were provided with a lot of useful feedback and requests for future versions, like for more machines and tools to interact with. 
+In last semester's user test, we were provided with a lot of useful feedback and requests for future versions, like for more machines and tools to interact with. 
 Regarding this, we considered implementing the much desired lathe machine, but eventually focused on enhancing the overall educational values of our application.
 
 This is the reason why in this project's second iteration, we counted on our well-approved selection of interactable **safety equipment** and hand-modeled workshop machines: 
@@ -23,9 +23,9 @@ the **bench drill**, the **hand-lever shear** and the **guillotine shear**.
 {{</section>}}
 
 {{<gallery>}}
-	{{<image src="bench_drill.png" alt="bench drill" caption="Bench drill">}}
-	{{<image src="hand_lever_shear.png" alt="hand lever shear" caption="Hand-lever shear">}}
-	{{<image src="guillotine_shear.png" alt="guillotine shear" caption="Guillotine shear">}}
+{{<image src="bench_drill.png" alt="bench drill" caption="Bench drill">}}
+{{<image src="hand_lever_shear.png" alt="hand lever shear" caption="Hand-lever shear">}}
+{{<image src="guillotine_shear.png" alt="guillotine shear" caption="Guillotine shear">}}
 {{</gallery>}}
 
 {{<section title="The improved 33%" >}}
@@ -38,8 +38,8 @@ The most observable improvement is the virtual environment itself.
 Our modelling team took one extra step to provide our users with a more appealing and wider playing area. 
 The **new VR workshop** unites the goal of further increasing the player's immersion with many possibilities of later additions to the narrative framing. 
 
-	{{<image src="previous_workshop.jpg" alt="previous workshop" caption="Previous workshop">}}
-	{{<image src="improved_workshop.jpg" alt="improved workshop" caption="Improved workshop">}}
+{{<image src="previous_workshop.jpg" alt="previous workshop" caption="Previous workshop">}}
+{{<image src="improved_workshop.jpg" alt="improved workshop" caption="Improved workshop">}}
 
 {{</section>}}
 
@@ -98,7 +98,7 @@ In such cases, creative workarounds must be found. We designed our tasks in such
 
 
 -- **_Flickering lights_** -> Unexpected rapid changes in the lighting of a workshop are typical, be it from wielding or signal lights from vehicles or large machines. 
-To simulate these, a dynamic animation targeting lamps relevant to the position of the user and the machine they are working with.
+To simulate these, a dynamic animation targets lamps relevant to the position of the user and the machine they are working with.
 
 
 {{<image src="fly_distraction.gif" alt="fly gif" caption="Fly distraction">}}
@@ -122,7 +122,7 @@ As one of the main goals for our 3D avatar was to let it follow the real player'
 One approach to calculate the positions of a chain of joints (like the human arm) is called forward kinematics and is used in mathematics, physics and classic animation. 
 Through it, given a set of rotations for joints connected by individual bones, the final position of that chain can be computed. 
 
-The problem consisted in not having access to the rotation of each joint in our player's body, but only the positions and rotations of the tracked VR headset and their two VR controllers. 
+The problem consisted of not having access to the rotation of each joint in our player's body, but only the positions and rotations of the tracked VR headset and their two VR controllers. 
 Another mathematical approach to calculate joint-chain-movement, given the position of the final joint, is called [inverse kinematics (IK)](https://en.wikipedia.org/wiki/Inverse_kinematics). 
 With the help of one of the newest and most optimized IK-solver algorithms, called [Forwards and Backwards reaching Inverse Kinematics (FABRIK)](https://www.researchgate.net/profile/Andreas-Aristidou/publication/273166356_Inverse_Kinematics_a_review_of_existing_techniques_and_introduction_of_a_new_fast_iterative_solver/links/54faeca10cf20b0d2cb8782b/Inverse-Kinematics-a-review-of-existing-techniques-and-introduction-of-a-new-fast-iterative-solver.pdf#page74),
 this challenge was overcome.
