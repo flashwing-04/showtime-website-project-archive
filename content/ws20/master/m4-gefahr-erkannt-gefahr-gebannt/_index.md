@@ -16,13 +16,13 @@ supervisor = "Tamara Voigt, Martin Steinicke"
 +++
 
 {{<section title="Showtime Schedule">}}
-**Simons says... chop your finger off!**
+**Simon says... chop your finger off!**
 
 If that is a phrase you always wanted to say but foremost would like to learn about how to avoid injuries...
 
 ...come to our booth and join us for backseat gaming sessions at: **12:30 || 13:30 || 14:30**
 
-Additionally we will be showcasing our prototype on demand.
+Additionally, we will be showcasing our prototype on demand.
 {{</section>}}
 
 {{<mediathek id="91e2c2053d3396e276e8e1aa0f4199c7" title="Our Presentation">}}	
@@ -44,12 +44,12 @@ This training illustrates dangerous situations by showing injuries that can occu
 
 {{<section title="Our Team">}}
 Our team consists of four people with diverse skillsets. This enabled us to split into two subteams: development and modeling.
-Among other tasks Marvin and Konrad mainly focused on bringing the machines from the workshop into the virtual world while Julian and Adrian set them up with interactability. 
+Among other tasks, Marvin and Konrad mainly focused on bringing the machines from the workshop into the virtual world, while Julian and Adrian set them up with interactability. 
 {{</section>}}
 
 {{<gallery>}}
-	{{<team-member image="adrian.jpg" name="Adrian Sabrowski">}}
-	{{<team-member image="marvin.jpg" name="Marvin Kullick">}}
-	{{<team-member image="julian.png" name="Julian Bechthold">}}
-	{{<team-member image="konrad.png" name="Konrad Ukens">}}
+{{<team-member image="adrian.jpg" name="Adrian Sabrowski">}}
+{{<team-member image="marvin.jpg" name="Marvin Kullick">}}
+{{<team-member image="julian.png" name="Julian Bechthold">}}
+{{<team-member image="konrad.png" name="Konrad Ukens">}}
 {{</gallery>}}

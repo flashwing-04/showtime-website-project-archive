@@ -18,7 +18,7 @@ The application was developed targeting and using the **HTC Vive VR headset**.
 Various programs were used for modeling but **Blender (2.91)** took the main stage due to its open source approach and the widely available resources for learners.
 Along with the core features, free plugins were used, especially for proper model texturing.
 
-For the modeling of the player hands **ZBrush** and **GIMP** were used additionally.
+For the modeling of the player's hands **ZBrush** and **GIMP** were used additionally.
 {{</section>}}
 
 {{<section title="Other">}}
@@ -34,7 +34,7 @@ The project setup as well as code versioning were made possible for us via a **G
 {{</section>}}
 
 {{<section title="Communication">}}
-Starting off with **Slack** we quickly changed to **Discord** as our primarly internal communication channel, due to overall accesability and comfort.
+Starting off with **Slack** we quickly changed to **Discord** as our primary internal communication channel, due to overall accessibility and comfort.
 
 Calls with the project partners or weekly catch up meetings with the project supervisors were held via **Zoom**.
 {{</section>}}

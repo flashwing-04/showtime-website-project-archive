@@ -17,9 +17,9 @@ They invited us to visit their workshops in order to gather enough information a
 
 {{<section title="Research and Concept">}}
 
-As one of the first steps in our process we did a literature search on safety training with VR technology, and specifically for training in manual labor professions.
+As one of the first steps in our process, we did a literature search on safety training with VR technology, and specifically for training in manual labor professions.
 
-By studying these we learned about different approaches to safety training, such as prescriptive/scenario-based or explorative scenes. 
+By studying these, we learned about different approaches to safety training, such as prescriptive/scenario-based or explorative scenes. 
 We also learned about the ramifications of teaching in VR: the importance of immersion, the duration sessions should have and when and how feedback should be delivered. 
 Furthermore, the necessity for effective training became apparent: statistics show that [more than 60.000 injuries while operating workshop machinery happened in Germany in 2019](https://publikationen.dguv.de/widgets/pdf/download/article/3893). 
 In a project related to mining safety the authors noted that lots of accidents happen because basic training concepts are disregarded. 
@@ -46,7 +46,7 @@ Finally, it offers an experience that is closer to actual situations that users 
 Our partners in industry explained to us that it is not only an individuals' awareness (or lack thereof) that matters but also that the environment is critical. 
 Colleagues talk, music may be playing, machines making noise and possibly things happening in the visual periphery that can be distracting. 
 
-By putting the user in an immersive simulation of the workshop with sounds, visual distractions and the machines of the trade we aimed to recreate the conditions in which accidents occur. 
+By putting the user in an immersive simulation of the workshop with sounds, visual distractions and the machines of the trade, we aimed to recreate the conditions in which accidents occur. 
 
 There are already a range of products and studies on workplace education through VR technology, and the most popular machine for such training was the Lathe. 
 By the time we found the [Lathe Safety Simulator VR](http://www.lathesafetysimulator.com/#about), we concluded it would be more original to model machines and work processes that are underrepresented in the simulations we had seen so far. 
@@ -61,22 +61,22 @@ After deciding which machines we wanted to display, we entered the next phase: i
 
 We split our team into two groups: developers and artists. While Marvin and Konrad took the real life examples and replicated the machines in blender, Julian and Adrian overtook the implementation of the necessary VR interactions and injury types.
 
-With all the VR headsets being at hands of the developers and working in a completely remote setting, iterative development skills where especially important for optimizing the 3D objects. After being modeled, numerous versions of the selected machines had to be tested in VR and improved according to feedback.
+With all the VR headsets being at hands of the developers and working in a completely remote setting, iterative development skills were especially important for optimizing the 3D objects. After being modeled, numerous versions of the selected machines had to be tested in VR and improved according to feedback.
 
 {{<image src="gitlab_issue_board.png" alt="gitlab issue board" caption="Splitting tasks using an issue board">}}
 {{</section>}}
 
 {{<section title="User Testing">}}
-A big step in our development process was the chance to let potential users test our prototype. Therefore we went to the AVT workshop and, following the current safety and hygiene rules, let the trainees give our demo a go.
+A big step in our development process was the chance to let potential users test our prototype. Therefore, we went to the AVT workshop and, following the current safety and hygiene rules, let the trainees give our demo a go.
 
-First we introduced our project to the group with a brief description of our goal. Afterwards we started with individual testing sessions, with a total of eight users playing and being interviewed for approx. 30 to 50 minutes per person. Our testers had the chance to explore the wokrshop area freely, while being given minor tasks, e.g. cropping metal sheets with the guillotine shear. 
+First, we introduced our project to the group with a brief description of our goal. Afterwards we started with individual testing sessions, with a total of eight users playing and being interviewed for approx. 30 to 50 minutes per person. Our testers had the chance to explore the workshop area freely, while being given minor tasks, e.g. cropping metal sheets with the guillotine shear. 
 Then we asked them individually to reflect on their usage of the VR application. 
 
 {{<image src="live_testing_01.png" alt="trainee testing prototype" caption="AVT trainee live testing">}}
 
-In the end we interviewed the whole group about their experiences, their suggestions - as to what we could do better or different - including their opinion about the significance of our work.
+In the end, we interviewed the whole group about their experiences, their suggestions - as to what we could do better or different - including their opinion about the significance of our work.
 
-The whole evaluation can be found at: [Fragebogen fuer Teilnehmer:innen AVT Sicherheitstraining](https://docs.google.com/forms/d/1gnjrtsyARNbkLJHYSICJ80UzCxNmNO6PWl2e_vBSvt0/edit#responses) ("1" meaning total disagreemnet and "6" total agreement).
+The whole evaluation can be found at: [Fragebogen fuer Teilnehmer:innen AVT Sicherheitstraining](https://docs.google.com/forms/d/1gnjrtsyARNbkLJHYSICJ80UzCxNmNO6PWl2e_vBSvt0/edit#responses) ("1" meaning total disagreement and "6" total agreement).
 
 {{<image src="miro_board_test_feedback.jpg" alt="structured test feedback" caption="User feedback grouped in Miro board">}}
 {{<image src="testing_results_more_training_in_vr.png" alt="evaluation of user feedback" caption="Example of user feedback evaluation">}}

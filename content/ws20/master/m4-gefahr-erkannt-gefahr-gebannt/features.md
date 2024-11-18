@@ -6,7 +6,7 @@ weight = 1
 {{<section title="Training-Related Task">}}
 To provide an ingame objective which represents an everyday work task to the trainees, their instructors were included in the development process.
 
-When entering the virtual workshop the players receive the task to craft a dice. This requires interaction with cutting machines like the hand lever or the guillotine shears as well as the bench drill to perforate the metal workpieces. To set the final product together, a glue gun needs to be used.
+When entering the virtual workshop, the players receive the task to craft a dice. This requires interaction with cutting machines like the hand lever or the guillotine shears, as well as the bench drill to perforate the metal workpieces. To set the final product together, a glue gun needs to be used.
 
 {{<image src="task.png" alt="dice task procedure visualized" caption="Visualization of dice task procedure ">}}
 {{</section>}}
@@ -23,9 +23,9 @@ Interactions include adjustment of drill bits, pulling down the operating handle
 {{</section>}}
 
 {{<gallery>}}
-	{{<image src="bench_drill_avt.jpg" alt="avt teltow bench drill" caption="1. avt teltow - bench drill - reference">}}
-	{{<image src="bench_drill_blender.png" alt="modeled bench drill in blender" caption="2. our modeled bench drill in blender">}}
-	{{<image src="bench_drill.gif" alt="modeled bench drill in unity" caption="3. our interactive bench drill in unity">}}
+{{<image src="bench_drill_avt.jpg" alt="avt teltow bench drill" caption="1. avt teltow - bench drill - reference">}}
+{{<image src="bench_drill_blender.png" alt="modeled bench drill in blender" caption="2. our modeled bench drill in blender">}}
+{{<image src="bench_drill.gif" alt="modeled bench drill in unity" caption="3. our interactive bench drill in unity">}}
 {{</gallery>}}
 
 {{<section title="2. Hand Lever Shear">}}
@@ -35,20 +35,20 @@ To operate it, users must unhinge the safety hook and pull the lever down, there
 {{</section>}}
 
 {{<gallery>}}
-	{{<image src="hand_lever_shear_bfw.png" alt="hand lever shear" caption="1. bfw - hand lever shear - reference">}}
-	{{<image src="hand_lever_shear_blender.png" alt="modeled hand lever shear in blender" caption="2. our modeled hand lever shear in blender">}}
-	{{<image src="hand_lever_shears.gif" alt="modeled hand lever shear in unity" caption="3. our interactive hand lever shear in unity">}}
+{{<image src="hand_lever_shear_bfw.png" alt="hand lever shear" caption="1. bfw - hand lever shear - reference">}}
+{{<image src="hand_lever_shear_blender.png" alt="modeled hand lever shear in blender" caption="2. our modeled hand lever shear in blender">}}
+{{<image src="hand_lever_shears.gif" alt="modeled hand lever shear in unity" caption="3. our interactive hand lever shear in unity">}}
 {{</gallery>}}
 
 {{<section title="3. Guillotine Shear">}}
-The guillotine shear is used to cut larger sheets of metal down to size. To do so, a sheet is layed on the operating surface and positioned under the blade.
+The guillotine shear is used to cut larger sheets of metal down to size. To do so, a sheet is laid on the operating surface and positioned under the blade.
 The shear needs to be turned on via a switch on the left side. On button press, the blade is pushed down onto the workpiece, separating excess material. 
 {{</section>}}
 
 {{<gallery>}}
-	{{<image src="guillotine_shear_avt.jpg" alt="guillotine shear" caption="1. avt teltow - guillotine shear - Reference">}}
-	{{<image src="guillotine_shear_blender.png" alt="guillotine shear" caption="2. our modeled guillotine shear in blender">}}
-	{{<image src="guillotine_shears.gif" alt="guillotine shear" caption="3. our interactive guillotine shear in unity">}}
+{{<image src="guillotine_shear_avt.jpg" alt="guillotine shear" caption="1. avt teltow - guillotine shear - Reference">}}
+{{<image src="guillotine_shear_blender.png" alt="guillotine shear" caption="2. our modeled guillotine shear in blender">}}
+{{<image src="guillotine_shears.gif" alt="guillotine shear" caption="3. our interactive guillotine shear in unity">}}
 {{</gallery>}}
 
 {{<section title="Injury Simulation">}}
