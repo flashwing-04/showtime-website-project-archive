@@ -18,7 +18,7 @@ During this stage of our process we relied heavily on our **shared Google Drive 
 We used Miro at the stage where we had more or less **concrete concept ideas** and needed a place to organize our ideas into concrete features. We also used Miro for our initial **wireframes**.
 
 #### Canva
-We used Canva mainly to create the concepts **presentation** which we presented to the Berlin Senate in June.
+We used Canva mainly to create the concept's **presentation** which we presented to the Berlin Senate in June.
 
 #### Figma
 We used Figma for the **designs** of our concrete app ideas. As well as the **click through dummy** of the Quiz App.

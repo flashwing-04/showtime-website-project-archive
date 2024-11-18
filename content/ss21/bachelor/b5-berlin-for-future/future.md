@@ -18,7 +18,7 @@ to see events "close to me"
 #### Later access
 saving relevant events or communities to access them later
 #### Participate
-every user can mark that they are participaing, which would be represented directly in the participants number shown for the event
+every user can mark that they are participating, which would be represented directly in the participants number shown for the event
 #### Personalisation
 newsfeed of communities dependent on all saved communities; newsfeed of events dependent on all saved events
 #### Terms of Use

@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{<section title="The vision">}}
-Our group was tasked by the **Berlin Senate** with creating **two concepts** to **encourage climate conscious behaviour in students** and young people alike. Consequently, this is not just a programming project we’re embarked on this semester.
+Our group was tasked by the **Berlin Senate** with creating **two concepts** to **encourage climate conscious behaviour in students** and young people alike. Consequently, this is not just a programming project we’re embarking on this semester.
 
 Thus, our project does not only consist of features, but also of:
 - climate situation analysis
@@ -20,7 +20,7 @@ Thus, our project does not only consist of features, but also of:
 As specified by the **Berlin Senate**, we were to target **students** specifically. 
 With this in mind, we focused our **research** on the **needs**, **wishes** and **constraints** of fellow students.
 
-Our **research and survey have revealed**, among other things, that the respondents representing our target group of Berlin students **want to live more climate friendly and get involved**, mostly with the principal motive to leave a livable earth behind. To make this possible the students would most likely adapt their everyday lives, engage in climate communities and access information. 
+Our **research and survey have revealed**, among other things, that the respondents representing our target group of Berlin students **want to live more climate friendly and get involved**, mostly with the principal motive to leave a livable earth behind. To make this possible, the students would most likely adapt their everyday lives, engage in climate communities and access information. 
 
 **BUT the respondents**
 - don't have a lot of **free time** to engage ecologically
@@ -35,7 +35,7 @@ With the results in mind, we needed to focus our work on specific goals to be ab
 The resulting goals are:
 - **Providing information**
 To solve the problem of lacking information and the speed with which one could get access to it, our first goal is to provide information. 
-While providing information is a relatively simple task, we wanted to make sure people would find it interesting and engaging enough to keep coming back for more content without feeling overwhelmed by long texts. Thus, we decided to add a gamification elements.
+While providing information is a relatively simple task, we wanted to make sure people would find it interesting and engaging enough to keep coming back for more content without feeling overwhelmed by long texts. Thus, we decided to add a gamification element.
 - **Supporting networking**
 As our survey shows, there is quite a number of students willing to take action themselves, but they lack the time or means of easily finding communities in which they can participate. Therefore, our second goal is to connect numerous Berlin based organisations and communities with students and vice versa.
 
@@ -52,7 +52,7 @@ To achieve our goals, the **following two concepts** were developed.
 Community Finder is a **central and collective digital platform** to **connect those who are interested in the climate situation and are ready to take action**. It is also a platform **for climate initiatives, communities and organisations** seeking to get more young people involved in their cause.
 
 #### What makes Community Finder special
-Our Community Finder concept is distinguished from other event or community finding programs because it **focuses especially on the climate protection mission**. Instead of a long search through a comprehensive database, which contains various entries of all kinds of categories, this app concentrates only on events and communities that support climate protection. 
+Our Community Finder concept is distinguished from other events or community finding programs because it **focuses especially on the climate protection mission**. Instead of a long search through a comprehensive database, which contains various entries of all kinds of categories, this app concentrates only on events and communities that support climate protection. 
 
 It turned out in our **survey and interviews** that even though our respondents are very interested in saving our planet, they also have very **little time** and want to participate mostly in events that are not too far away from their own location. Thus, our app offers the possibility to **quickly find communities and events** using filters and sorting algorithms. 
 
@@ -98,7 +98,7 @@ This process could also be handled that checks if certain terms are contained or
 Quiz focuses mainly on **providing information** about climate-friendly everyday decisions. Therefore, the content of this concept is **categorized** into the sections trash, household, travel and shopping, which were the most inquired of our survey respondents. Each category contains several quizzes and an information part. 
 
 #### What makes Quiz special
-Our survey and research revealed that the two biggest **challenges of our respondents** to get involved in the climate protection mission is **missing knowledge** about approaches how to act climate-friendly and the lack of time. 
+Our survey and research revealed that the two biggest **challenges of our respondents** to get involved in the climate protection mission are **missing knowledge** about approaches how to act climate-friendly and the lack of time. 
 
 At first, we had the idea to solve this with an information app, which enables to get the kind of information for a certain topic (like Berlin public transport) of a category (like travel) without a lot of detours and research through a separation into the sections “general info”, “apps”, “links”.
 
@@ -127,7 +127,7 @@ We chose to implement Quiz as a **Figma prototype** with the **following feature
 #### Business model
 In order to generate permanently new content for the app, we thought about asking for a **collaboration with editors**. Another possibility that we see is that users themselves can upload the questions and information. 
 
-Consequently, it would be necessary to check that new content for correctness, which can be done by admins. It can also be done by asking other users to check new questions. E.g. if a question was confirmed 5 times it can be uploaded in a quiz. 
+Consequently, it would be necessary to check that new content for correctness, which can be done by admins. It can also be done by asking other users to check new questions. E.g. if a question was confirmed 5 times, it can be uploaded in a quiz. 
 {{</section>}}
 {{<image src="quizz-features.png" alt="Quiz Overview" caption="Quiz Visualisation">}}
 
