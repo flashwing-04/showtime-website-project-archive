@@ -6,21 +6,21 @@ weight = 1
 {{<section title="Tech Stack">}}
 {{<image src="logos.png" alt="Alt text">}}
 
-* Within the **Unity game engine**, we developed the sound framework and built the VR test environment. It provided us with many build-in features for programming with sounds and was well suited for development with VR.
-* The **XR Interaction Toolkit** offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and created a good gaming experience.
-* **FMod** has provided us with many more sound manipulation options in addition to the **Unity build-in sound system**. Within FMod it is possible to edit individual sounds differently and integrate them into Unity.
-* **Unity Editor Scripting** Editor scripting in Unity allows you to create your own editing windows within Unity. It provides many additional UI elements that made editing sounds easier and more organized.
+* Within the **Unity game engine**, we developed the sound framework and built the VR test environment. It provided us with many built-in features for programming with sounds and was well suited for development with VR.
+* The **XR Interaction Toolkit** offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and create a good gaming experience.
+* **FMod** has provided us with many more sound manipulation options in addition to the **Unity built-in sound system**. Within FMod it is possible to edit individual sounds differently and integrate them into Unity.
+* **Unity Editor Scripting**: Editor scripting in Unity allows you to create your own editing windows within Unity. It provides many additional UI elements that made editing sounds easier and more organized.
 * The **Oculus** software enables wireless as well as wired linking of the **Oculus Quest** with Unity. This connection is essential for real-time manipulation of the sound.
 * For version management of our project in Git, we used **GitHub**. It allowed us to work in parallel and secured our program code.
 * We used **Notion** as our project management tool. With Notion we were able to manage tasks, record the project status and document our development process.
-* We used **Discord** for internal communication and to record important links and informations.
+* We used **Discord** for internal communication and to record important links and information.
 
 
 {{</section>}}
 
 {{<section title="Future">}}
 
-VamX's basic idea was to be an interface for an AI that would automatically change the sound according to predefined criteria to achieve a requested result. The manual control would therefore  replaced by the AI. This goal we considered in the development of VamX.
+VamX's basic idea was to be an interface for an AI that would automatically change the sound according to predefined criteria to achieve a requested result. The manual control would therefore be replaced by the AI. This goal we considered in the development of VamX.
 
 
 {{</section>}}

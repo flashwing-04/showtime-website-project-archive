@@ -7,7 +7,7 @@ weight = 1
 
 ## VamX
 
-Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
+Vamx is an editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
 
 The **Editor** component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.
 
@@ -19,9 +19,9 @@ or FMOD-Events using the **FMOD-Editor**, that will automatically expose all cus
 
 {{<image src="Manager.png" alt="Alt text" caption="VamX-Manager">}}
 
-Each individual sound property expects a normalized float input value, that can be controlled by the user or by a script. Input values of ALL sound properties of a **Editor** component, can also be controlled and processed by a **Editor Level**.
+Each individual sound property expects a normalized float input value, that can be controlled by the user or by a script. Input values of ALL sound properties of an **Editor** component, can also be controlled and processed by an **Editor Level**.
 
-The **Manager** component is a overview of all available editor instances in the scene. The editors can be directly manipulated from the **Manager** component. In addition to that, the **Manager Level** can control ALL editor instances and their respective audio properties, overriding the **Editor Level**. This value, similar to the **Editor Level**, can be controlled by the user individually or by a external script.
+The **Manager** component is an overview of all available editor instances in the scene. The editors can be directly manipulated from the **Manager** component. In addition to that, the **Manager Level** can control ALL editor instances and their respective audio properties, overriding the **Editor Level**. This value, similar to the **Editor Level**, can be controlled by the user individually or by an external script.
 
 {{<image src="FmodEditor.png" alt="Alt text"caption="VamX-Fmod-Editor">}}
 
