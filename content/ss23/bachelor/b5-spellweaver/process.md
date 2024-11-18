@@ -7,13 +7,13 @@ weight = 1
 
 ## API's - Research and Testing
 
-Since the core task of our project was to investigate STT in VR, we invested a lot of time in selecting API's. All good things come in threes, and thus also the number of our selected apis.
+Since the core task of our project was to investigate STT in VR, we invested a lot of time in selecting API's. All good things come in threes, and thus also the number of our selected APIs.
 However, the road to the three finalists was not so short, as there is a wide range of APIs and we also had to run several tests, understand the logic and also ensure their functionality on Unity.
-Our three finalsts consist of a paid version, an open source and one with local speech recognition models.
+Our three finalists consist of a paid version, an open source one and one with local speech recognition models.
 
 ## Game Features - Brainstorming and Defining
 
-In order to define the game features, we first collected ideas, ignoring time and costs. With this collection of ideas, we got a good overview of potential possibilities for our game. By prioritizing the features we came up with the framework for our MVP.
+In order to define the game features, we first collected ideas, ignoring time and costs. With this collection of ideas, we got a good overview of potential possibilities for our game. By prioritizing the features, we came up with the framework for our MVP.
 
 {{<image src="ungefiltert.png" caption="game features unfiltered">}}
 {{<image src="gefiltert.png" caption="game features filtered">}}

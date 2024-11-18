@@ -23,7 +23,7 @@ weight = 1
 - **start challenge option:** starts a timer and makes opponents appear regularly. When the timer runs out, you'll be able to see your final score
 - **spawn buttons** where you can spawn enemies yourself
 - **two types of enemies** with different health points
-- **three different types of spells**, with an intensity is based on the WER
+- **three different types of spells**, with an intensity based on the WER
 - magical and gloomy game environment and game sounds
 - **info buttons** for the gameplay, licences and data processing
 

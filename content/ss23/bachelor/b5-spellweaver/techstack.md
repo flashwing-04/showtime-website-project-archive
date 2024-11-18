@@ -12,7 +12,7 @@ weight = 1
 - **Google Drive** to store our shared documents within the group and with our supervisors
 - **Mattermost** for the communication with the research group
 - **GitLab** for organizing the Unity project
-- **Miro** for visualizing the process and collect inspirations for our game
+- **Miro** for visualizing the process and collecting inspirations for our game
 
 {{<gallery>}}
 {{<team-member image="discord.png" name="Discord">}}
@@ -29,7 +29,7 @@ weight = 1
 
 ## To create a game in virtual reality, we needed some software to develop it and to run it on device
 
-- **Rider,VS Code,VS** these three were our favourite IDE's for C# develepment in Unity
+- **Rider, VS Code, VS** these three were our favourite IDE's for C# development in Unity
 - **Unity** was our main tool to work with the XR components, create the scenes, game objects, and to bring our game more and more to life
 - **Oculus** is necessary to set up our VR-Glasses
 - **Sidequest** is like a second app store we needed to start the game on device
