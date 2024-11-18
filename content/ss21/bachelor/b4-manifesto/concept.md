@@ -7,7 +7,7 @@ weight = 1
 
 The Marc Sinan Company shared the main idea with us: how the inner room of a church should be turned into an interactive area where one has to work together with the others; the event should act as a memorial to the victims of the National Socialist Underground murders.
 
-The concept is the project foundation and was developed in **collaboration and coordination with the Marc Sinan Company**. An important point here was dividing the whole act into substeps to define the possible states of it. The starting point of the interaction is the whole floor area with a smaller area within it acting as the playground.
+The concept is the project foundation and was developed in **collaboration and coordination with the Marc Sinan Company**. An important point here was dividing the whole act into substeps to define the possible states of it. The starting point of the interaction is the whole floor area, with a smaller area within it acting as the playground.
 
 We developed multiple concepts, discussed and modified them to reach the final idea:
 
@@ -26,7 +26,7 @@ We developed multiple concepts, discussed and modified them to reach the final i
 
   {{<image src="man_concept_2_en.png" alt="4 Phasen" caption="" >}}
 
-  - The final concept includes one circles on each side that can be placed on the area using the User Interface in the Manifesto-Core frontend app.
+  - The final concept includes one circle on each side that can be placed on the area using the User Interface in the Manifesto-Core frontend app.
   - Due to the current situation with the pandemic, multiple circles is a more appropriate solution.
 
   {{<image src="man_concept_4_en.png" alt="4 Phasen" caption="" >}}

@@ -10,7 +10,7 @@ weight = 2
 
 {{<image src="man_pipeline_text.png" alt="tech" caption="">}}
 
-A code snippet from the Node.js Server. The processed data will be taken over by a **Kafka-Consumer**. The circular surfaces which are **submitted by the Frontend** are compared with the assigned **User-IDs** from our Kafka instance. After the comparison a decision which signal will be sent to **Ableton Live through Ableton.js** will be made.
+A code snippet from the Node.js Server. The processed data will be taken over by a **Kafka-Consumer**. The circular surfaces which are **submitted by the Frontend** are compared with the assigned **User-IDs** from our Kafka instance. After the comparison, a decision which signal will be sent to **Ableton Live through Ableton.js** will be made.
 
 {{</section >}}
 
@@ -20,7 +20,7 @@ A code snippet from the Node.js Server. The processed data will be taken over by
 
 - https://github.com/b4-manifesto/Manifesto
 
-The **Manifesto-Core** script is our main asset in our app, which is developed with OpenCV and Python. People that move in front of our cameras will be detected and get an ID assigned. Those IDs will be sent to a Kafka instance which also gets sent to our server.
+The **Manifesto-Core** script is our main asset in our app, which is developed with OpenCV and Python. People that move in front of our cameras will be detected and get an ID assigned. Those IDs will be sent to a Kafka instance, which also gets sent to our server.
 
 {{</section >}}
 
@@ -28,7 +28,7 @@ The **Manifesto-Core** script is our main asset in our app, which is developed w
 
 - https://github.com/b4-manifesto/ManifestoServer
 
-This is our Server for the Manifesto application. We use Node.js to connect with the [Ableton.js](https://github.com/leolabs/ableton-js). With a **Docker-Compose-File** a Kafka-instance will start inside a Docker Container.
+This is our Server for the Manifesto application. We use Node.js to connect with the [Ableton.js](https://github.com/leolabs/ableton-js). With a **Docker-Compose-File**, a Kafka-instance will start inside a Docker Container.
 
 - The Raspberry PIs receive data from the Kafka-instance.
 - That data will be sent to the Server.

@@ -19,7 +19,7 @@ With **Discord**, we had a constant flow of communication. It offers either text
 
 {{<section title="Miro">}}
 
-**Miro** helped us to collect and order our ideas concerning the project to sort our thoughts.
+**Miro** helped us to collect and order our ideas concerning the project, to sort our thoughts.
 {{</section>}}
 
 {{<section title="GitHub">}}
@@ -27,14 +27,14 @@ With **Discord**, we had a constant flow of communication. It offers either text
 We shared our codes with the help of **GitHub**, it made it possible to work on the project simultaneously.
 {{</section>}}
 
-{{<section title="Kafka und Docker">}}
+{{<section title="Kafka and Docker">}}
 
 We wanted to avoid as many problems as we could that concerned the installation of tools that required certain configurations. We decided to use **Docker to operate our Kafka-instance**, which is responsible for the connectivity between the Python and the Node.js application.
 {{</section>}}
 
-{{<section title="Python und OpenCV">}}
+{{<section title="Python and OpenCV">}}
 
-Our **first step** was to choose a Framework that should help us to recognize objects. Because we had little experience with the topic of Computer Vision, we had to research first in order to go on. We found OpenCV, which offers two language options. It was **either Python or C++**. We decided to work with OpenCV Python because the Raspberry Pi **supports Python natively** and that makes it easier to create and install apps. Python is easy to learn due to its minimalistic syntax and is very popular among programmers.
+Our **first step** was to choose a framework that should help us to recognize objects. Because we had little experience with the topic of Computer Vision, we had to research first in order to go on. We found OpenCV, which offers two language options. It was **either Python or C++**. We decided to work with OpenCV Python because the Raspberry Pi **supports Python natively** and that makes it easier to create and install apps. Python is easy to learn due to its minimalistic syntax and is very popular among programmers.
 
 {{</section>}}
 
@@ -56,7 +56,7 @@ AbletonJS is an **API that connects with the Ableton Live Sequencer**. To manipu
 
 {{<section title="React">}}
 
-We used React to develop the User Interface. You can draw the **“Area of interest”** on it so if someone walks on the named area, the app will react.
+We used React to develop the User Interface. You can draw the **“Area of interest”** on it, so if someone walks on the named area, the app will react.
 {{</section>}}
 
 {{<section title="JavaScript, HTML, CSS">}}
