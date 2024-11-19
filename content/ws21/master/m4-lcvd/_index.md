@@ -15,12 +15,12 @@ supervisor = "David Koschnick, Matthias Daiber"
 
 {{<section title="Motivation">}}
 "Long COVID" is an illness with a range of possible symptoms that appear after a Corona infection, either continuingly
-or consequentially of Corona ([Koczulla et. al., 2021], p.6f). Some of the over 20 known symptoms include fatigue, shortness of breath, or
-memory problems ([Koczulla et. al., 2021], p.59). Long COVID is diagnosed and the symptoms treated after a medical examination ([Koczulla et. al., 2021], p.9).
+or consequentially of Corona ([Koczulla et al., 2021], p.6f). Some of the over 20 known symptoms include fatigue, shortness of breath, or
+memory problems ([Koczulla et al., 2021], p.59). Long COVID is diagnosed and the symptoms treated after a medical examination ([Koczulla et al., 2021], p.9).
 If the patient’s medical condition worsens, their physician needs to refer them to a specialist for the concerned organ
-(eg. a pneumologist) ([Koczulla et. al., 2021], p.9f).
+(e.g. a pulmonologist) ([Koczulla et al., 2021], p.9f).
 
-With about 80% of patients suffering from one or more symptoms even two weeks after their diagnose, Long COVID is very common ([Lopez-Leon et. al., 2021], p.6).
+With about 80% of patients suffering from one or more symptoms even two weeks after their diagnosis, Long COVID is very common ([Lopez-Leon et al., 2021], p.6).
 COVID patients suffering from Long COVID can feel very distressed. For example, in ([Median Kliniken, 2022]) patients report
 * feeling misunderstood by their peers
 * being pressured by their colleagues
@@ -53,13 +53,13 @@ The LCvd team consists of five students. Four team members worked on the elabora
 {{</gallery>}}
 
 {{<section title="Sources">}}
-* [Koczulla et. al., 2021] S1-Leitlinie Post-COVID/Long-COVID. Koczulla et. al.. AWMF online - Das Portal der wissenschaftlichen Medizin. 2021.
+* [Koczulla et al., 2021] S1-Leitlinie Post-COVID/Long-COVID. Koczulla et al.. AWMF online - Das Portal der wissenschaftlichen Medizin. 2021.
 * [Median Kliniken, 2022] MEDIAN Unternehmensgruppe B.V. & Co. KG. Accessed Jan 25 2022.
-* [Lopez-Leon et. al., 2021] More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis. 2021.
+* [Lopez-Leon et al., 2021] More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis. 2021.
 
 [Median Kliniken, 2022]: https://www.median-kliniken.de/long-covid/de/fuer-betroffene/erfahrungsaustausch/
-[Koczulla et. al., 2021]: https://www.awmf.org/uploads/tx_szleitlinien/020-027l_S1_Post_COVID_Long_COVID_2021-07.pdf
-[Lopez-Leon et. al., 2021]: https://www.medrxiv.org/content/10.1101/2021.01.27.21250617v2.full.pdf
+[Koczulla et al., 2021]: https://www.awmf.org/uploads/tx_szleitlinien/020-027l_S1_Post_COVID_Long_COVID_2021-07.pdf
+[Lopez-Leon et al., 2021]: https://www.medrxiv.org/content/10.1101/2021.01.27.21250617v2.full.pdf
 {{</section>}}
 
 {{<section title="Video sources">}}

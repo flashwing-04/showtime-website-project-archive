@@ -6,10 +6,10 @@ weight = 3
 {{<image src="architektur.jpg" alt="LCvd's system architecture">}}
 
 #### NativeScript-Vue
-[NativeScript](https://nativescript.org/) is an open-souce framework to access native APIs in JavaScript. 
+[NativeScript](https://nativescript.org/) is an open-source framework to access native APIs in JavaScript. 
 With the help of Android Studio and XCode it allows for building truly native applications with a JavaScript frontend 
 framework, in this case Vue.js.
-During the development emulators have been used to preview the app.
+During the development, emulators have been used to preview the app.
 
 #### TypeScript
 TypeScript adds static typing to JavaScript and therefore makes it easier to understand and debug the code.
@@ -47,7 +47,7 @@ creates a superuser and loads data fixtures into the database. Two containers ar
 one for the API and one for the database.
 
 #### Nginx and Gunicorn
-For production, a Debian server with [Nginx](https://www.nginx.com/) as a web server and  [Gunicorn](https://gunicorn.org/) 
+For production, a Debian server with [Nginx](https://www.nginx.com/) as a web server and [Gunicorn](https://gunicorn.org/) 
 as an application server are being used instead of Docker. 
 
 The API is can be accessed at https://lcvd.ac0.de/.
@@ -56,11 +56,11 @@ The API is can be accessed at https://lcvd.ac0.de/.
 {{<section title="Tool Stack">}}
 #### GitLab
 The team used [Git](https://git-scm.com/) for source code management. The backend and the frontend repositories are hosted on 
-[a GitLab instance](https://git.myhki.de/) (private). GitLab's [issue boads](https://docs.gitlab.com/ee/user/project/issue_board.html) 
+[a GitLab instance](https://git.myhki.de/) (private). GitLab's [issue boards](https://docs.gitlab.com/ee/user/project/issue_board.html) 
 feature and Wiki are used for organizing the team's tasks.
 
 #### Adobe XD
-[Adobe XD](https://www.adobe.com/de/products/xd.html) is a software for creating non-functional prototypes with a focus on visuals and user experience. With it's rich features and plugins the tool has been
+[Adobe XD](https://www.adobe.com/de/products/xd.html) is a software for creating non-functional prototypes with a focus on visuals and user experience. With its rich features and plugins, the tool has been
 used collaboratively to create a visual design for the LCvd App.
 
 #### Miro
@@ -79,12 +79,12 @@ designed for Python software.
 #### Visual Studio Code
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor. It can be enriched with many extensions to fit
 the needs for different projects.
-For the frontend especially the Vetur and NativeScript extensions were used to assist the development process.
+For the frontend, especially the Vetur and NativeScript extensions were used to assist the development process.
 
 #### Postman
 [Postman](https://www.postman.com/) is a client for making API requests. It has been used to document the API 
 in a collection, additionally to Django's automatically created web interface. 
-Requests are sorted by categories and contain examples for possible responses. 
+Requests are sorted by categories and contain examples of possible responses. 
 
 #### Discord and Zoom
 [Discord](https://discord.com/) has been used for team communication and team meetings. The possibility to quickly and 

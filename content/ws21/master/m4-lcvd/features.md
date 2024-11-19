@@ -17,7 +17,7 @@ All our information needs to be based on scientific sources. One of the sources 
 ["Empfehlungen zur Unterstützung einer selbstständigen Rehabilitation nach COVID-19-bedingter Erkrankung"](https://apps.who.int/iris/bitstream/handle/10665/345019/WHO-EURO-2021-855-40590-60116-ger.pdf), 
 second edition, published by the WHO Regionalbüro für Europa in 2021.
 
-To show patients that they are not alone we added a pie chart on which percentage of other Long Covid
+To show patients that they are not alone, we added a pie chart on which percentage of other Long Covid
 patients have been affected by a symptom in the course of their Long Covid illness. This feature does not contain 
 meaningful data yet.
 
@@ -53,7 +53,7 @@ If the symptom is getting stronger, the light switches to red. If it gets better
 If the symptom strength stays the same, the light switches to yellow. Internally, we calculate the growth rate 
 with linear regression.
 
-For clarity the user is provided with an explanation of the "symptom light", when clicking on the question mark.
+For clarity, the user is provided with an explanation of the "symptom light", when clicking on the question mark.
 
 #### PDF
 LCvd's ability to create a PDF with symptom records can provide extra insights for doctors.
@@ -65,12 +65,12 @@ enable token based authentication.
 {{</section>}}
 
 {{<section title="Settings">}}
-In the settings users can change their email and password. They can enable or disable daily push notifications that remind them to track their symptoms. 
+In the settings, users can change their email and password. They can enable or disable daily push notifications that remind them to track their symptoms. 
 They can also choose to share their data for Long COVID research and enter additional data.
 {{</section>}}
 
 {{<section title="Additional Data Entry">}}
-If users are willing to help Long COVID research they can enter additional information about their age, infection and their vaccinations. 
+If users are willing to help Long COVID research, they can enter additional information about their age, infection and their vaccinations. 
 Every question is optional and can be skipped. 
 The timeline at the top indicates the progress they have made when entering their details.
 {{<image src="additional_data.png" alt="Views for entering additional data for research">}}
