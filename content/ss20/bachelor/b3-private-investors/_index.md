@@ -20,7 +20,7 @@ In unserem Projekt befassen wir uns um die unterschiedlichen Bedürfnisse von Pr
 
 Die App soll dem Benutzer eine intuitive Suchoberfläche bieten, um die perfekte Immobilie für die eigene Kapitalanlage zu finden. Verschiedene Filter vereinfachen die Suche und sollen die App für Benutzer jeder Professionalitäsebene zugänglich und verständlich machen. Dank einer großen und ständig aktualisierten Datenbank mit Immobilien erhält der Benutzer die aktuellsten Angebote.
 
-Unser Projekt basiert auf der Webversion eines Privatinvestoren Portals von Immobilienscout24. Im Rahmen einer internen Hack Week entstand die Idee auf Basis dieser Webversion eine hybride App mit Flutter zu bauen.
+Unser Projekt basiert auf der Webversion eines Privatinvestoren Portals von ImmobilienScout24. Im Rahmen einer internen Hack Week entstand die Idee auf Basis dieser Webversion eine hybride App mit Flutter zu bauen.
 {{</section>}}
 
 {{<section title="Vision">}}

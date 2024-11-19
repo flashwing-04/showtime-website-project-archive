@@ -2,7 +2,7 @@
 title = "Design"
 +++
 
-Die Entwicklung des Design der App ist einer der faszinierendsten Prozesse des gesamten
+Die Entwicklung des Designs der App ist einer der faszinierendsten Prozesse des gesamten
 Projekts. Es zeigt einem, wie gut man Farben kombinieren kann, wie man unterschiedlichen
 Formen fühlt, wie man Objekte auf der Seite zusammenstellen kann usw. Dies ist ein
 kreativer Prozess, an dem jeder teilnehmen kann, unabhängig davon, welches Wissen er
