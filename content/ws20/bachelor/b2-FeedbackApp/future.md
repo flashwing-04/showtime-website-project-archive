@@ -19,5 +19,5 @@ Meeting owners could tailor the questionnaire to fit their meeting either by usi
 {{</section>}}
 
 {{<section title="Localization">}}
-Shouldn't there be an option to switch the language of the feedback questionnaire? **Absolutely.** In order to make the app accessible to everyone, we would love to offer the app in different languages either by changing it manually or by detecting the browser language.
+Shouldn't there be an option to switch the language of the feedback questionnaire? **Absolutely.** In order to make the app accessible to everyone, we would love to offer the app in different languages, either by changing it manually or by detecting the browser language.
 {{</section>}}

@@ -4,7 +4,7 @@ weight = 2
 +++
 
 {{<section title="How did we start">}}
-**The first step** in our creation process was to identify the needs of Brandung and analyze the market. To our surprise we couldn't find any product that was focusing on meetings the same way we do.
+**The first step** in our creation process was to identify the needs of Brandung and analyze the market. To our surprise, we couldn't find any product that was focusing on meetings the same way we do.
 We began thinking about our own experiences with meetings or even classes and what kind of tool could have been useful to evaluate them. We came up with a bunch of fancy features but narrowed it down to a core functionality at the end for our MVP:
 
 - Outlook Integration
