@@ -22,7 +22,7 @@ The app will use gamification and incentives to encourage students to provide fe
 {{</section>}}
 
 {{<section title="Profanity Filter" >}}
-Courses with a large number of Participants might suffer from undesired language and trolling. A word Filter will be implemented as a countermeasure, but only blocking profanity so freedom of speech is still guaranteed.
+Courses with a large number of Participants might suffer from undesired language and trolling. A word filter will be implemented as a countermeasure, but only blocking profanity, so freedom of speech is still guaranteed.
 {{</section>}}
 
 {{<section title="Answer Clustering" >}}

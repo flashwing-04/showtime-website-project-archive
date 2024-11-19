@@ -16,16 +16,16 @@ The research phase was a crucial step for us in order to understand the needs an
 
 We attempted to identify any potential challenges and sources of errors that the features might pose, so we could come up with solutions beforehand. For example: the live feature can be a powerful tool, but we had to keep in mind that it shouldn’t distract the students as well as the lecturer during the lecture. In addition to that, we had to determine the grouping of the features and create a logical navigation and page structure for Valit.
 
-A crucial part of the concept was to construct questionnaires for both the regular and the semester evaluation. Analyzing the current semester evaluation questions of the HTW, using the feedback of our interviews and considering common evaluation guidelines helped us to create two questionnaires: a short one for regular and a longer one for the semester evaluation.
+A crucial part of the concept was to construct questionnaires for both the regular and the semester evaluation. Analyzing the current semester evaluation questions of the HTW, using the feedback of our interviews and considering common evaluation guidelines, helped us to create two questionnaires: a short one for regular and a longer one for the semester evaluation.
 {{</section>}}
 {{<image src="concept.png" alt="Excerpt of Concept in Miro" caption="Excerpt of Concept in Miro">}}
 
 {{<section title="Design">}}
 In the final stages of the concept phase, we started to gather inspiration for the design of Valit. At the same time, we developed a style guide that included fonts, colors and components to be used. Our goal from the beginning was to create an app that was visually appealing, clean, purposeful, but fun to use at the same time. It was also important that it served both user groups in the best way.
 
-During the development of the wireframes we created the mobile first view for students and the desktop optimized professor view. Based on these, we then developed the final design by iteratively creating and revising screens.
+During the development of the wireframes, we created the mobile first view for students and the desktop optimized professor view. Based on these, we then developed the final design by iteratively creating and revising screens.
 
-In the end we were extremely satisfied with the result and found that it would provide both target groups a helpful and also modern and user-friendly tool to improve teaching in an interactive environment.
+In the end, we were extremely satisfied with the result and found that it would provide both target groups a helpful and also modern and user-friendly tool to improve teaching in an interactive environment.
 {{</section>}}
 
 {{<section title="Implementation">}}

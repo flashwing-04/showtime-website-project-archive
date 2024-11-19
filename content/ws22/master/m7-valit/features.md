@@ -4,7 +4,7 @@ weight = 2
 +++
 
 {{<section title="Dashboard">}}
-The dashboard overview shows important statistics such as the overall course rating and the number of dial-ins. Recent courses for quick access and also upcoming courses, along with a calendar are provided.
+The dashboard overview shows important statistics such as the overall course rating and the number of dial-ins. Recent courses for quick access and also upcoming courses, along with a calendar, are provided.
 {{</section>}}
 
 {{<image src="dashboard-overview.png" alt="Dashboard" >}}
@@ -16,7 +16,7 @@ The course overview displays all courses of the lecturer with related informatio
 {{<image src="course-overview.png" alt="Course Overview" >}}
 
 {{<section title="Course Detail">}}
-The course detail view displays the most important statistics about the semester evaluation: the overall course rating, the course attendance, and some suggestions from the student feedback. This view also lists all of the recurring evaluations for this course which can be explored further by selecting one.
+The course detail view displays the most important statistics about the semester evaluation: the overall course rating, the course attendance, and some suggestions from the student feedback. This view also lists all the recurring evaluations for this course, which can be explored further by selecting one.
 {{</section>}}
 
 {{<image src="course-detail.png" alt="Course Detail" >}}
