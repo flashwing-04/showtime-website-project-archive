@@ -17,8 +17,8 @@ supervisor for our project. He created the app for his master thesis with **the 
 {{<section title="Development">}}
 
 
-After agreeing on recreating the App with **React**, we briefly familiarized ourselves with it. We devided us in pairs of two, to recreate the given features with react. It took us a great deal of time to rebuild the app and in the end we had to limitate the new features we wanted to implement in the first place. Maintaining our source code with Git allowed us to simultaneously implement different features on different branches. 
-Every monday we had a meeting via zoom with our mentor, to report our progess. We discussed problems and the next steps. We checked the time plan, whether we where in due time.
+After agreeing on recreating the App with **React**, we briefly familiarized ourselves with it. We divided us in pairs of two, to recreate the given features with react. It took us a great deal of time to rebuild the app and in the end we had to limit the new features we wanted to implement in the first place. Maintaining our source code with Git allowed us to simultaneously implement different features on different branches. 
+Every Monday we had a meeting via zoom with our mentor, to report our progress. We discussed problems and the next steps. We checked the time plan, whether we were in due time.
 
 {{</section>}}
 

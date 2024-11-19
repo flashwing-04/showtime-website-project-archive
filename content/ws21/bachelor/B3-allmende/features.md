@@ -24,7 +24,7 @@ To motivate others to explore the environment a user can **create challenges**. 
 {{<image src="entrysChallenges.png" alt="profile" >}}
 
 ## Badges - Status
-In the context of gamification, we wanted to implement a new **rewarding feature**, for finishing challenges. So we createt **badges**. There are three types of badge in every animal or plant category, there are bronze, silver and gold badges. When you earned the third (gold)Badge of a category you will get a new **status** in your profile view.
+In the context of gamification, we wanted to implement a new **rewarding feature**, for finishing challenges. So we created **badges**. There are three types of badge in every animal or plant category, there are bronze, silver and gold badges. When you earned the third (gold)Badge of a category, you will get a new **status** in your profile view.
 
 {{<image src="badges.png" alt="profile" >}}
 {{<image src="statusweb.png" alt="profile" >}}

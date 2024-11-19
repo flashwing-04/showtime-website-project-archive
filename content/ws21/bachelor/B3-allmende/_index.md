@@ -21,7 +21,7 @@ With Allmende we want to encourage people for exploring nature and to share thei
 
 Try it out on [allmende.de](http://generic-sauce.de:5000/login)
 
-Look at the source code on Github  [Github.de](https://github.com/allmende-app/frontend)
+Look at the source code on [Github.de](https://github.com/allmende-app/frontend)
 
 
 
@@ -30,7 +30,7 @@ Look at the source code on Github  [Github.de](https://github.com/allmende-app/f
 
 {{<section title="The Team">}}
 
-We are a team of students with varying levels of work and study experience. Nevertheless we devided the tasks equaly, dispite our experience, so everybody was able to learn a whole lot. Unfurtunately, with the ongoing pandemic, unexceptional we meet online. All together we had a very friendly and also professional working atmosphere and helped each other a lot. We had a great time creating and improving Allmende and hope you will do too, using it.
+We are a team of students with varying levels of work and study experience. Nevertheless, we divided the tasks equally, despite our experience, so everybody was able to learn a whole lot. Unfortunately, with the ongoing pandemic, unexceptional we meet online. All together we had a very friendly and also professional working atmosphere and helped each other a lot. We had a great time creating and improving Allmende and hope you will do too, using it.
 
 {{</section >}}
 
