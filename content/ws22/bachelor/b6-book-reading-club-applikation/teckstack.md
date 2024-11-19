@@ -5,10 +5,10 @@ weight = 1
 
 {{<section title="Organisation and Communication">}}
 
-To keep in touch and keep our communication up and running we used a multitude of well known platforms.
+To keep in touch and keep our communication up and running, we used a multitude of well known platforms.
 
-- Zoom for our monday meetings
-- Teams for our hybrid thursday meetings
+- Zoom for our Monday meetings
+- Teams for our hybrid Thursday meetings
 - WhatsApp for quick questions and coordination
 - Slack for sharing resources and keeping in touch with Diva-E
 - Trello for keeping track of our backlog and our progress on the tickets we wrote
@@ -26,7 +26,7 @@ To keep in touch and keep our communication up and running we used a multitude o
 
 **Miro**
 
-Miro was an essential part of our first brainstorming sessions using its collaborative whiteboard. Here we went through the process from brainstorming ideas to boiling them down to our final features we would later implement as well as creating our first rough screens.
+Miro was an essential part of our first brainstorming sessions using its collaborative whiteboard. Here we went through the process from brainstorming ideas to boiling them down to our final features we would later implement, as well as creating our first rough screens.
 
 **Figma**
 
@@ -41,7 +41,7 @@ Our design team used Figma to finalize our previously sketched Screen designs th
 {{<section title="Frontend">}}
 **Ionic React**
 
-We decided on using Ionic React to quickly get our frontend up and running, while still having access to quality features and multi-platform development without the extra hassle. Using Ionic’s included components we managed to quickly build our first prototype.
+We decided on using Ionic React to quickly get our frontend up and running, while still having access to quality features and multi-platform development without the extra hassle. Using Ionic’s included components, we managed to quickly build our first prototype.
 
 **Capacitor**
 

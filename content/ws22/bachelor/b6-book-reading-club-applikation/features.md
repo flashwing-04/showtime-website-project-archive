@@ -25,6 +25,6 @@ With the next big update, we will elevate the social aspect by displaying the as
 
 Additionally, we plan to boost our user experience by adding push-notifications for changes made on upcoming discussions and by implementing the functionality to change user account data such as user email and password.
 
-Please feel free to follow our progress as we are eager to develop more features to connect avid readers around the world through deep discussions about their favorite books.
+Please feel free to follow our progress, as we are eager to develop more features to connect avid readers around the world through deep discussions about their favorite books.
 
 {{</section>}}
