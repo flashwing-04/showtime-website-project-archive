@@ -8,9 +8,9 @@ Here are the features we would have loved to implement if there was more time, o
 
 {{<section title="More control over matches">}}
 
-- **More matching criterias and filters for the search:**
+- **More matching criteria and filters for the search:**
 
-To make sure our algorithm works great for personal values, we decided to postpone the implementation of search criterias such as ‘location’ and ‘salary’. We are eager to add them as soon as possible.
+To make sure our algorithm works great for personal values, we decided to postpone the implementation of search criteria such as ‘location’ and ‘salary’. We are eager to add them as soon as possible.
 
 - **Mark as “already viewed”:**
 

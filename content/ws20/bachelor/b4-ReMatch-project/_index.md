@@ -15,7 +15,7 @@ team = ["Ella Katajisto", "Florian Holzmann", "Joshua Meiser", "Kim Ngan Le Dang
 supervisor = "Sowmya Guru"
 +++
 
-ReMatch is a web application that **matches employees and recruiters** by use of the **Elasticsearch** data analytics engine which determines a compatibility score based on their individual profiles. The users are able to **view matches** that have the highest compatibility to their own criteria, **see the detailed information** of their matches and **express interest** if they choose to. 
+ReMatch is a web application that **matches employees and recruiters** by use of the **Elasticsearch** data analytics engine, which determines a compatibility score based on their individual profiles. The users are able to **view matches** that have the highest compatibility to their own criteria, **see the detailed information** of their matches and **express interest** if they choose to. 
 Head over [here](https://rematch-htw.herokuapp.com) to explore our application.
 
 {{<mediathek id="dd8658dafc23d658410aff9c4f4ecf14">}}

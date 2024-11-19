@@ -38,7 +38,7 @@ Analyzed the results from our surveys and brainstorming sessions to come up with
 
 Defined the components and their connections for our web application using the Model View Controller design pattern.
 
-Used Figma to to create the **mockup design** for our frontend. 
+Used Figma to create the **mockup design** for our frontend. 
 {{</section>}}
 
 {{<section title="Development">}}

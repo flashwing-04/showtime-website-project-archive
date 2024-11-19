@@ -10,7 +10,7 @@ With Elasticsearch we can **retrieve data** with customized parameters and it wi
 {{</section>}}
 
 {{<section title="EJS">}}
-EJS is a JavaScript template, which essentially allows us to implement JavaScript into HTML files. Thanks to that we were able to display **dynamic content** on the pages.
+EJS is a JavaScript template, which essentially allows us to implement JavaScript into HTML files. Thanks to that, we were able to display **dynamic content** on the pages.
 {{</section>}}
 
 {{<section title="MongoDB">}}

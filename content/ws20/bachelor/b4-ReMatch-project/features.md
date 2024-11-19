@@ -14,7 +14,7 @@ weight = 1
 {{</section>}}
 
 {{<section title="Matches page">}}
-- After logging in the user gets an overview of **top matches** with a **compatibility score** for each match. 
+- After logging in, the user gets an overview of **top matches** with a **compatibility score** for each match. 
 - The user can view more detailed information about the match by visiting their profile page.
 
 {{</section>}}
@@ -28,7 +28,7 @@ weight = 1
 
 {{<section title="Job search">}}
 - Job seekers can look for more jobs by entering the job title into a **search bar**. They can also **use filters** to get their desired results.
-- This way job seekers are also able to view jobs that they were not directly matched with.
+- This way, job seekers are also able to view jobs that they were not directly matched with.
 {{</section>}}
 
 {{<section title="Email notification">}}
