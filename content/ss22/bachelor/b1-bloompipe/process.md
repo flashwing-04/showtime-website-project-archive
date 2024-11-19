@@ -4,7 +4,7 @@ weight = 2
 +++
 
 {{<section title="The Process">}}
-Our journey began with our aspiration to create an art creating tool. Based on this idea, we planned out some milestones to achieve this goal. This, of course, should help us over time to plan and structure our project as well as possible. For this task we used agile methods which helped us to complete the project. We held our weekly meetings every Monday and on Tuesday mornings with our professor. Here, our professor tasked us to present the status of the project, so we had the opportunity to prepare for the Showtime with smaller presentations we did on Tuesdays. We also managed to develop an MVP in the first four weeks, which served us as a backup until the Showtime. Through the meetings with our professor, we got a lot of input on our project, so testing and fixing bugs actually always went hand in hand with the changes the professor suggested us to do. In the last weeks of the project we dedicated our time primarily to the Showtime preparation.
+Our journey began with our aspiration to create an art creating tool. Based on this idea, we planned out some milestones to achieve this goal. This, of course, should help us over time to plan and structure our project as well as possible. For this task we used agile methods which helped us to complete the project. We held our weekly meetings every Monday and on Tuesday mornings with our professor. Here, our professor tasked us to present the status of the project, so we had the opportunity to prepare for the Showtime with smaller presentations we did on Tuesdays. We also managed to develop an MVP in the first four weeks, which served us as a backup until the Showtime. Through the meetings with our professor, we got a lot of input on our project, so testing and fixing bugs actually always went hand in hand with the changes the professor suggested us to do. In the last weeks of the project, we dedicated our time primarily to the Showtime preparation.
 {{</section>}}
 
 {{<section title="Teams">}}
@@ -24,7 +24,7 @@ The Architecture Team was responsible for implementing the overall structure to 
 The server team took care of the infrastructure for the project. This team was responsible for things like claiming the URL "bloompipe.de" and setting up a storage and email server and maintaining our CI/CD solution. A great concern was to provide our two parallel working infrastructures: Production and Development. Our Development Server as a so called "CI Runner" is linked to GitLab, which we used for our codebase, and whenever something is published there, an automated CI pipeline will be run to be able to have the latest code running on our development servers to test it in the right environment with all other models existing. We also took care to integrate our external GPU sever into the pipelines, to have the computing power, needed for the image generation with StyleGAN.
 
 ## Team Web
-This is where the magic of all teams come together. That's because the web team develeoped the website and webapp, where the user ulimately interacts with the product.
+This is where the magic of all teams come together. That's because the web team developed the website and webapp, where the user ultimately interacts with the product.
 {{</section>}}
 
 {{<section title="Future">}}
@@ -32,13 +32,13 @@ This is where the magic of all teams come together. That's because the web team 
 We are now Ready and Online with our first public version to make the internet bloom. All creators, musicians, producers, techies or hobbyists, are invited to try out our tool.
 
 ## New Styles
-New hand-selected and elaborately trained sets will be added to the existing styles. Also if you have a favorite Style, please send us your recommendation and we will consider training them in our gym that is a GPU farm.
+New hand-selected and elaborately trained sets will be added to the existing styles. Also, if you have a favorite Style, please send us your recommendation and we will consider training them in our gym that is a GPU farm.
 
 ## Multi Account Functionality
-We will implement a personalized pipeline. Each user will be able to generate an account in which they can view all their projects and former uploads. They will also recieve notifications via the WebApp and E-Mail on important status changes.
+We will implement a personalized pipeline. Each user will be able to generate an account in which they can view all their projects and former uploads. They will also receive notifications via the WebApp and E-Mail on important status changes.
 
 ## Connection to a Payment Gateway
-Bloompipe is still in the beta-phase so to speak and is therefore free of charge. But without funding the app cannot be maintaied indefinitely. So we will have to add the possibility some day to indeed capture transactions.
+Bloompipe is still in the beta-phase so to speak and is therefore free of charge. But without funding the app cannot be maintained indefinitely. So we will have to add the possibility some day to indeed capture transactions.
 
 {{<image src="img-bp-flower.jpg" alt="Bloompipe Flower" caption="Rendering by Max Blank">}}
 {{</section>}}

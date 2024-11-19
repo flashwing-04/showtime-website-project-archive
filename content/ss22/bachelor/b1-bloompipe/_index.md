@@ -21,7 +21,7 @@ supervisor = "Prof. Dr. Kai-Uwe Barthel, Konstantin Schall"
 {{<mediathek id="208e1140d29794cf7037102a69773125" title="Here is Bloompipe!">}}
 
 {{<section title="Our Goal">}}
-Whether you’re an aspiring artist, musician, or anyone who is curious about digital art, Bloompipe is a user-friendly tool that let's people easily participate in the art world to create a visual and artistic music video instantly - without much effort.
+Whether you’re an aspiring artist, musician, or anyone who is curious about digital art, Bloompipe is a user-friendly tool that lets people easily participate in the art world to create a visual and artistic music video instantly - without much effort.
 {{</section>}}
 
 {{<section title="The Team">}}
