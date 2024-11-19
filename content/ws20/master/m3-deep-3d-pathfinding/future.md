@@ -25,7 +25,7 @@ It would be especially interesting to try and achieve cooperative pathfinding fo
 {{</section>}}
 
 {{<section title="Graph based navigation">}}
-Because the models were trained this way, all the input data had to be rasterized. If the geometry of the environment is not stepwise it must be converted first. 
+Because the models were trained this way, all the input data had to be rasterized. If the geometry of the environment is not stepwise, it must be converted first. 
 
 An alternative to this would be a weighted graph as the basis for all possible movements.
 If the neural network learns to work with graphs there are fewer restrictions for projecting the environment as input data. 

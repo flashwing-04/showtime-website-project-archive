@@ -12,7 +12,7 @@ weight = 3
 <div class="nomargin">
 {{<image src="frameworks.png">}}
 </div>
-All machine learning related aspects of our project are built upon <a href="https://python.org" target="_blank">Python</a> envionments that were managed with <a href="https://conda.io" target="_blank">Conda</a>.
+All machine learning related aspects of our project are built upon <a href="https://python.org" target="_blank">Python</a> environments that were managed with <a href="https://conda.io" target="_blank">Conda</a>.
 The reinforcement learning approach uses the <a href="https://tensorflow.org/agents" target="_blank">TF-Agents</a> library, which is as part of the <a href="https://tensorflow.org" target="_blank">Tensorflow</a> framework.
 Our generative adversarial network was created with <a href="https://pytorch.org" target="_blank">PyTorch</a>. The machine learning process was accelerated using Nvidia's <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank">CUDA</a> toolkit.
 The training data generation and result visualization was achieved in <a href="https://unity.com" target="_blank">Unity</a> with <a href="https://docs.microsoft.com/dotnet/csharp" target="_blank">C#</a>. 
@@ -32,7 +32,7 @@ We documented our progress and ideas using <a href="https://www.atlassian.com/so
 <div class="nomargin">
 {{<image src="editors.png">}}
 </div>
-For pyhton programming we chose to work with <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> and it's <a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter" target="_blank">Jupyter Notebook</a> support.
-When working on our Unity projects we went with the suggested editor <a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a>.
+For pyhton programming, we chose to work with <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> and it's <a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter" target="_blank">Jupyter Notebook</a> support.
+When working on our Unity projects, we went with the suggested editor <a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a>.
 {{</section>}}
 <i><small>The logos were sourced from official style guides and press kits</small></i>

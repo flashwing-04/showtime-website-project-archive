@@ -17,7 +17,7 @@ The majority of our time was spent on coming up with new concepts and developing
 - The model trained by the **generative adversarial network** was given over 10.000 samples, 7500 of which were used as part of the training data set and the remaining 2500 for result evaluations.
 {{<image src="gan_mse.png">}}
 
-- For the **reinforcement learning** model, the agent was trained for 50.000 - 200.000 iterations depending on size of the worlds.
+- For the **reinforcement learning** model, the agent was trained for 50.000 - 200.000 iterations, depending on size of the worlds.
 - Our **supervised transfer learning** model was trained with over 4000 different environments, each with around 40 different variations, resulting in a total of 168.000 data samples. This model was only trained for 2D worlds. Please refer to our [process](../process) page to learn about the limitations.
 {{<image src="tl_loss.png">}}
 
@@ -25,7 +25,7 @@ The majority of our time was spent on coming up with new concepts and developing
 {{</section >}}
 
 {{<section title="World Generator">}}
-To produce a variety of pathfinding situations we created a world generator that can output voxel worlds of any desired size. There are 5 different presets for the Perlin noise based terrain generation, as well as an additional hand crafted custom world. These produce different challenges for the learning process.
+To produce a variety of pathfinding situations, we created a world generator that can output voxel worlds of any desired size. There are 5 different presets for the Perlin noise based terrain generation, as well as an additional handcrafted custom world. These produce different challenges for the learning process.
 {{</section >}}
 
 {{<gallery>}}
@@ -40,7 +40,7 @@ To produce a variety of pathfinding situations we created a world generator that
 The generator can mass-produce worlds with multiple start and end points and either fixed or random preset types. If no desired path is set, the generator searches a start and goal for a path that spans a large distance across the world. A seed can be used to make the whole process reproducible. The worlds are stored as JSON files so they can be later read by the machine learning python scripts. After the models added their predictions to these files, their results can be shown in our visualizer.
 
 {{<section title="Visualizer">}}
-The path prediction results, together with a few statistics can be viewed interactively in 3D. This perspective allows for an easier assessment of the result quality and problematic obstacle arrangements. It can also be used to generate and export new levels on the fly.
+The path prediction results, together with a few statistics, can be viewed interactively in 3D. This perspective allows for an easier assessment of the result quality and problematic obstacle arrangements. It can also be used to generate and export new levels on the fly.
 {{<image src="visualizer.jpg" caption="Result data visualizer">}}
 {{</section >}}
 
