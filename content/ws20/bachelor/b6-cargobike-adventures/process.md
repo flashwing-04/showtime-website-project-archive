@@ -26,7 +26,7 @@ Having learned about the needs of the business, we understood that this project 
 {{<section title="Database Structure & Website Blueprint">}}
 Now that we had a more concrete image of what the site should do,  an e-commerce site for users to select a tour date and its corresponding available items to rent, so we must be clear of how the data should be structured and related to make it easier for our site to interact with the database:
 {{<image src="process_2.png" alt="tech stack visualized" caption="">}}
-In addition to designing the database structure, we also started on the website blueprint to understand the most intuitive and functional way to users to navigate the site. And once we had a concrete idea of what pages were needed and their hierarchy, we applied our findings in user research and built a mock-up for the site:
+In addition to designing the database structure, we also started on the website blueprint to understand the most intuitive and functional way for users to navigate the site. And once we had a concrete idea of what pages were needed and their hierarchy, we applied our findings in user research and built a mock-up for the site:
 {{<image src="process_3.png" alt="tech stack visualized" caption="">}}
 
 {{</section>}}
