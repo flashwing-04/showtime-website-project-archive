@@ -17,7 +17,7 @@ We plan to optimise the project by refactoring and applying design patterns to m
 This will make our SecurityAuditBot even more stable and easier to extend. 
 
 Moreover, comprehensive documentation is important to us.
-It will cover the creation of the project itself as well as the setup and use of the SecurityAuditBot.
+It will cover the creation of the project itself, as well as the setup and use of the SecurityAuditBot.
 This will provide developers and users with clear and understandable instructions that will help them make the best use of the SecurityAuditBot.
 
 Another exciting step is to extend the functionality of the SecurityAuditBot by integrating a plugin to detect and audit websites.

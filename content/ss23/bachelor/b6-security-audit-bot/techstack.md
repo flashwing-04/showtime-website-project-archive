@@ -27,11 +27,11 @@ This allowed us to collaborate efficiently, transparently and successfully manag
 
 {{<section title="Development">}}
 
-For the development of the user interface, we used the Visual Studio Code IDE since its highly customizable with a wide range of extensions that can significantly increase productivity.
+For the development of the user interface, we used the Visual Studio Code IDE, since it is highly customizable with a wide range of extensions that can significantly increase productivity.
 For example, snippets for different languages and libraries.
 
 Our Backend is using FastAPI, which is based on Python.
-Therefore we used PyCharm, since it is a powerful IDE designed for Python programming.
+Therefore, we used PyCharm, since it is a powerful IDE designed for Python programming.
 It offers intelligent coding assistance, remote development capabilities, built-in testing and debugging tools, and robust support for web development frameworks.
 
 As a tool for source code management we used GitLab.
@@ -94,15 +94,15 @@ The classes work together to collect and process the CVE data based on the keywo
 
 Because this is a small application overall, we decided to run both the API interface and the user interface on the same server, each in a separate Docker container. 
 The Dockerfile, found in the root directory of both applications, defines how they should be built and run.
-Since the backend uses FastAPI, we used a Uvicorn web server because it works very well together, has high performance, and can be used for both development and production. 
-For frontend deployment we used an nginx web server. 
+Since the backend uses FastAPI, we used an Uvicorn web server because it works very well together, has high performance, and can be used for both development and production. 
+For frontend deployment, we used a nginx web server. 
 Both containers run inside the same docker network, which allows them to communicate directly with each other by using the container name as the hostname for requests, which has very low latency. 
 The gitlab-ci.yml defines the process of building the new docker image and running it in a new container.
-It is executed by a Gitlab Runner, running in a Docker container as well.
-Therefore we are using docker-in-docker as service (dind) because we are building containers from inside a container itself.
+It is executed by a GitLab Runner, running in a Docker container as well.
+Therefore, we are using docker-in-docker as service (dind) because we are building containers from inside a container itself.
 The ci/cd gitlab runner is inside a container too and registered inside GitLab.
 We can just use the docker socket address to connect the docker instance of the server. 
-The frontend container provides the GUI on port 80, which automatically ensures that the GUI will be open when requesting the server  url.
+The frontend container provides the GUI on port 80, which automatically ensures that the GUI will be open when requesting the server URL.
 
 {{</section>}} 
 

@@ -7,7 +7,7 @@ weight = 1
 
 {{<section title="Chatbot:">}}
 
-A chatbot, the heart of our software, should offer the user a pleasant and intuitive solution to deal with the cyber security of his system, using natural language only.
+A chatbot, the heart of our software, should offer the user a pleasant and intuitive solution to deal with the cybersecurity of his system, using natural language only.
 The artificial intelligence classifies the user input and reacts accordingly.
 It also recognizes previous results and can base new audits on them.
 An active scan can always be monitored by the user through logs.

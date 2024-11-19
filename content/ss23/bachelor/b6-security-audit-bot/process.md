@@ -11,7 +11,7 @@ The project management was mainly done via GitLab, with the GitLab server provid
 We followed agile methods and focused primarily on scrum-like project management.
 However, due to the small team size, we made some deviations from a pure scrum approach.
 
-At the beginning of the project we brought together our individual skills and interests and developed a shared vision for the product.
+At the beginning of the project, we brought together our individual skills and interests and developed a shared vision for the product.
 Although no one had experience in the areas, we were always supported by the expertise of our project mentors.
 
 Initially, collaboration and knowledge sharing took place mainly in our weekly scrum meetings.
