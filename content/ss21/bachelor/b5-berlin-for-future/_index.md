@@ -8,7 +8,6 @@ card_description = "Concepts to encourage a climate conscious behaviour"
 
 
 # These properties may be removed if you don't need them
-source_link = "https://github.com/BenNR/BFF-CommunityFinder"
 demo_link = "https://berlinforfuture-community-finder.netlify.app/"
 
 
