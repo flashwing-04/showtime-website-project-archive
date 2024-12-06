@@ -8,8 +8,6 @@ card_description = "Manifesto is an interactive sound and video installation cre
 
 
 # These properties may be removed if you don't need them
-source_link = "https://github.com/B4-MANIFESTO"
-
 
 team = ["Elyess Eleuch", "Dennis Bröcker", "Martin Staats", "Nils Rausch", "Stepan Burlachenko"]
 supervisor = "Prof. Dr. Regina Friess und Alexander Kramer,  in collaboration with Marc Sinan Company"
