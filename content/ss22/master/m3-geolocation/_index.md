@@ -6,8 +6,6 @@ project_id = "M3"
 card_image = "logo.png"
 card_description = "Berlin has a lot of hidden history. Sometimes there are still noticeable traces of it today, but other times nothing is left. The 'What happened here' app aims to bridge the gap between the past and the present and make history visible again. With its location based notification feature, you can walk through Berlin and get notified if you are walking past a point with a historic background and learn about it via the app. Information about cultural, historical and social issues can be gathered in our WH2 Editor by different institutions in multiple languages."
 
-source_link = "https://gl-imi.f4.htw-berlin.de/fki-imi/m3-historic-audio-walk"
-
 team = ["Paula Osterkamp", "Luis Hankel", "Emily Gilbert", "Mahja Sarschar"]
 
 supervisor = "Alexander Kramer"
@@ -19,10 +17,6 @@ You can download the Android app by scanning this qr code.
 {{<image src="qr-code.jpg" alt="qr code android app" caption="QR Code Android app">}}
 
 [//]: # (The iOS app is currently not published but you can access the app through this [link](). This is only the backup solution and not optimized for web.)
-
-## Editor
-Our WH2 Editor can be found [here](http://what-happened-here.de/).
-We kindly ask you to use the test user account with email "test@test.com" and password "test1234".
 {{</section>}}
 
 {{<section title="Our Goal">}}
