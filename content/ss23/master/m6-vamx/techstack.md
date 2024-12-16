@@ -33,7 +33,6 @@ VamX's basic idea was to be an interface for an AI that would automatically chan
 * [FMod Logo](https://documentation.help/FMOD-Ex/logo.png)
 * [Oculus Logo](https://aeroventure.org/wp-content/uploads/2019/08/20180920-oculus-rift-logo-1024x831.png)
 * [GitHub Logo](https://pngimg.com/uploads/github/github_PNG20.png)
-* [Notion Logo](https://thisweekinstartups.com/wp-content/uploads/2021/07/logos-for-dot-com-Notion.png)
 * [Discord Logo](https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo_full.png)
 
 {{</section>}}
