@@ -5,7 +5,6 @@ project_id = "B5"
 # Properties for displaying the project in the project list
 card_image = "isd-thumbnail.jpg"
 card_description = "This project is an overall conceptual and interactive stage design developed for immersive live performances." 
-website_link = "https://isd-server.f4.htw-berlin.de/#/"
 
 
 team = ["Robin Kehr", "Lucas Winter", "Karl Buklewski", "Alexander Ehrenhoefer"]
